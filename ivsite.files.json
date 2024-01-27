@@ -1,0 +1,4241 @@
+[
+  {
+    "name": "Slider Image",
+    "blobName": "73ffe0c3-6535-4c99-b5d4-15d60c5f0f70.webp",
+    "type": "image/webp",
+    "active": "true",
+    "__v": 0,
+    "size": 16938,
+    "fileId": 1
+  },
+  {
+    "name": "disclaimer Image",
+    "blobName": "cae2bc43-eac3-4970-b12c-c94f9487ec80.webp",
+    "type": "image/webp",
+    "active": "true",
+    "__v": 0,
+    "size": 28058,
+    "fileId": 2
+  },
+  {
+    "name": "Acti Alert ",
+    "blobName": "11508499-5cb1-4296-9687-28a523ddce44.webp",
+    "type": "image/webp",
+    "active": "true",
+    "__v": 0,
+    "size": 21388,
+    "fileId": 3
+  },
+  {
+    "name": "IV eCommerce",
+    "blobName": "39131ce0-96e4-471d-83cf-643b2f830401.webp",
+    "type": "image/webp",
+    "size": 28934,
+    "active": "true",
+    "__v": 0,
+    "fileId": 4
+  },
+  {
+    "name": "Stock Manager ",
+    "blobName": "27cb052a-d862-4c2a-84ca-5935daed1419.png",
+    "type": "image/png",
+    "size": 1211435,
+    "active": "true",
+    "__v": 0,
+    "fileId": 5
+  },
+  {
+    "name": "audit",
+    "blobName": "becf4be9-8d3a-4d42-a3e0-66ca6d3554fe.webp",
+    "type": "image/webp",
+    "size": 6109,
+    "active": "true",
+    "__v": 0,
+    "fileId": 6
+  },
+  {
+    "name": "Case Study Icon ",
+    "blobName": "3bbde02c-8265-4db8-a34e-475b62a09879.webp",
+    "type": "image/webp",
+    "size": 2459,
+    "active": "true",
+    "__v": 0,
+    "fileId": 7
+  },
+  {
+    "name": "Contact Us Page Header",
+    "blobName": "2ea7cdc1-c39c-47d3-8b5f-4cd2306e3975.webp",
+    "type": "image/webp",
+    "size": 20329,
+    "active": "true",
+    "__v": 0,
+    "fileId": 8
+  },
+  {
+    "name": "About Us Cover",
+    "blobName": "e80f8f20-71b6-4832-8d34-4493fc6aee3f.webp",
+    "type": "image/webp",
+    "size": 23606,
+    "active": "true",
+    "__v": 0,
+    "fileId": 9
+  },
+  {
+    "name": "WeeHireU Case Study ",
+    "blobName": "65334e72-6964-4af1-b6d7-ba6d3b1bb065.webp",
+    "type": "image/webp",
+    "size": 49187,
+    "active": "true",
+    "__v": 0,
+    "fileId": 10
+  },
+  {
+    "name": "Sap Service Cover ",
+    "blobName": "a4122248-4910-47eb-b7dc-a4b75c4f5475.webp",
+    "type": "image/webp",
+    "size": 36934,
+    "active": "true",
+    "__v": 0,
+    "fileId": 11
+  },
+  {
+    "name": "Sap Service Thumbnail",
+    "blobName": "8b5e33c9-e441-4248-84bc-6ec9db9b83af.webp",
+    "type": "image/webp",
+    "size": 6899,
+    "active": "true",
+    "__v": 0,
+    "fileId": 12
+  },
+  {
+    "name": "Case Study ",
+    "blobName": "57a16a3f-675d-4823-939e-b09918097a0d.webp",
+    "type": "image/webp",
+    "size": 34785,
+    "active": "true",
+    "__v": 0,
+    "fileId": 13
+  },
+  {
+    "name": "ImpleVista Career",
+    "blobName": "f4ad0ec2-5b62-4769-81a5-d6d8d6dad79f.webp",
+    "type": "image/webp",
+    "size": 30570,
+    "active": "true",
+    "__v": 0,
+    "fileId": 14
+  },
+  {
+    "name": "Cloud Engineering",
+    "blobName": "f5796810-1a3b-43fa-87d2-94f44ff024f9.webp",
+    "type": "image/webp",
+    "size": 5236,
+    "active": "true",
+    "__v": 0,
+    "fileId": 15
+  },
+  {
+    "name": "Mobility",
+    "blobName": "75230173-2cbf-414e-96da-ea271e3c1528.webp",
+    "type": "image/webp",
+    "size": 5900,
+    "active": "true",
+    "__v": 0,
+    "fileId": 16
+  },
+  {
+    "name": "Web Applications",
+    "blobName": "f8f57741-7e0a-49d2-a13d-f9e7188cee95.webp",
+    "type": "image/webp",
+    "size": 6363,
+    "active": "true",
+    "__v": 0,
+    "fileId": 17
+  },
+  {
+    "name": "IOT Solutions",
+    "blobName": "12bcf3f1-590e-4cc5-ac36-ed6831bb50de.webp",
+    "type": "image/webp",
+    "size": 6205,
+    "active": "true",
+    "__v": 0,
+    "fileId": 18
+  },
+  {
+    "name": "UI/UX Prototyping",
+    "blobName": "a01f4200-c944-4925-8f73-0ac0dd6b2b1c.webp",
+    "type": "image/webp",
+    "size": 5900,
+    "active": "true",
+    "__v": 0,
+    "fileId": 19
+  },
+  {
+    "name": "Cloud Engineering Cover",
+    "blobName": "bf848537-b69b-4053-97ed-7da1ded6a2e8.webp",
+    "type": "image/webp",
+    "size": 32956,
+    "active": "true",
+    "__v": 0,
+    "fileId": 20
+  },
+  {
+    "name": "Road Maps",
+    "blobName": "52278072-8736-43b8-9bb9-74b26c8c0c35.webp",
+    "type": "image/webp",
+    "size": 5122,
+    "active": "true",
+    "__v": 0,
+    "fileId": 21
+  },
+  {
+    "name": "Migrate",
+    "blobName": "5ed869e7-2d73-4c21-99a6-bd0a37eb6330.webp",
+    "type": "image/webp",
+    "size": 5638,
+    "active": "true",
+    "__v": 0,
+    "fileId": 22
+  },
+  {
+    "name": "IV-eCOmmerce",
+    "blobName": "0acd4d73-2abe-4cf5-8169-262a4f696033.webp",
+    "type": "image/webp",
+    "size": 32823,
+    "active": "true",
+    "__v": 0,
+    "fileId": 23
+  },
+  {
+    "name": "Job Icon",
+    "blobName": "fc789a4e-a48f-4c98-a2bc-b17b5ab3077f.webp",
+    "type": "image/webp",
+    "size": 2699,
+    "active": "true",
+    "__v": 0,
+    "fileId": 24
+  },
+  {
+    "name": "SAP Case",
+    "blobName": "61226412-cdba-423c-a6df-bb7f34471c8c.webp",
+    "type": "image/webp",
+    "size": 41977,
+    "active": "true",
+    "__v": 0,
+    "fileId": 25
+  },
+  {
+    "name": "Mobility cover",
+    "blobName": "6543594f-8f6c-4cc1-b991-35630c6aa986.webp",
+    "type": "image/webp",
+    "size": 40532,
+    "active": "true",
+    "__v": 0,
+    "fileId": 26
+  },
+  {
+    "name": "Web Applications Cover",
+    "blobName": "502cde17-070c-4883-953d-5626f3225b9c.webp",
+    "type": "image/webp",
+    "size": 43341,
+    "active": "true",
+    "__v": 0,
+    "fileId": 27
+  },
+  {
+    "name": "DMS Cover",
+    "blobName": "1757ecda-8dfe-4dd5-997c-06fec12ec234.webp",
+    "type": "image/webp",
+    "size": 29414,
+    "active": "true",
+    "__v": 0,
+    "fileId": 28
+  },
+  {
+    "name": "MapTaskr Cover",
+    "blobName": "bf825190-3c51-4f23-a302-84a359ccee90.webp",
+    "type": "image/webp",
+    "size": 151328,
+    "active": "true",
+    "__v": 0,
+    "fileId": 29
+  },
+  {
+    "name": "USB Flow Cover",
+    "blobName": "f27857d5-d296-4642-8c8f-44ab3bb18aa9.webp",
+    "type": "image/webp",
+    "size": 200139,
+    "active": "true",
+    "__v": 0,
+    "fileId": 30
+  },
+  {
+    "name": "Portal Cover",
+    "blobName": "966acf69-5afc-4111-a61a-a4364eb0fe1f.webp",
+    "type": "image/webp",
+    "size": 159515,
+    "active": "true",
+    "__v": 0,
+    "fileId": 31
+  },
+  {
+    "name": "NOC Cover",
+    "blobName": "4c79b00d-bd3d-41b7-a2dd-4c955de5cb20.png",
+    "type": "image/png",
+    "size": 58029,
+    "active": "true",
+    "__v": 0,
+    "fileId": 32
+  },
+  {
+    "name": "Article Icon",
+    "blobName": "d3375253-a301-49ac-be2d-b3e536c6ec23.webp",
+    "type": "image/webp",
+    "size": 17556,
+    "active": "true",
+    "__v": 0,
+    "fileId": 33
+  },
+  {
+    "name": "USB Cover",
+    "blobName": "bde02b94-112f-4e58-896e-a155f182ab40.png",
+    "type": "image/png",
+    "size": 54709,
+    "active": "true",
+    "__v": 0,
+    "fileId": 34
+  },
+  {
+    "name": "Robi SPO Portal Cover",
+    "blobName": "ddf78551-5024-421f-818c-545d71ebb735.png",
+    "type": "image/png",
+    "size": 429573,
+    "active": "true",
+    "__v": 0,
+    "fileId": 35
+  },
+  {
+    "name": "approval-process",
+    "blobName": "bea4604e-4608-43d4-9d02-51aaa99080ce.png",
+    "type": "image/png",
+    "size": 415767,
+    "active": "true",
+    "__v": 0,
+    "fileId": 36
+  },
+  {
+    "name": "dashboard",
+    "blobName": "3e2d95c7-ec2d-4a70-81d8-80b4a1af2202.png",
+    "type": "image/png",
+    "size": 103227,
+    "active": "true",
+    "__v": 0,
+    "fileId": 37
+  },
+  {
+    "name": "dms-flow",
+    "blobName": "10409920-da78-4126-a627-6e0d77f750dd.png",
+    "type": "image/png",
+    "size": 42194,
+    "active": "true",
+    "__v": 0,
+    "fileId": 38
+  },
+  {
+    "name": "architecture",
+    "blobName": "3beb31b4-aa06-44b0-8320-c381355c2950.png",
+    "type": "image/png",
+    "size": 94785,
+    "active": "true",
+    "__v": 0,
+    "fileId": 39
+  },
+  {
+    "name": "data-model",
+    "blobName": "f7f6089f-0ff7-44cc-9e64-248ef2a35c5f.png",
+    "type": "image/png",
+    "size": 214998,
+    "active": "true",
+    "__v": 0,
+    "fileId": 40
+  },
+  {
+    "name": "dynamic365",
+    "blobName": "ef91c40c-e2d9-418d-a53f-9088b49cc05a.png",
+    "type": "image/png",
+    "size": 298887,
+    "active": "true",
+    "__v": 0,
+    "fileId": 41
+  },
+  {
+    "name": "powerapps",
+    "blobName": "67d81fba-e872-4795-aa68-bfaf0f61ab6e.png",
+    "type": "image/png",
+    "size": 240791,
+    "active": "true",
+    "__v": 0,
+    "fileId": 42
+  },
+  {
+    "name": "sandbox",
+    "blobName": "3348f70f-afb6-482f-aff7-71e4e2edd004.png",
+    "type": "image/png",
+    "size": 163053,
+    "active": "true",
+    "__v": 0,
+    "fileId": 43
+  },
+  {
+    "name": "technical-diagram",
+    "blobName": "88d7555a-b0ad-4515-b20f-cf34d114284a.png",
+    "type": "image/png",
+    "size": 18264,
+    "active": "true",
+    "__v": 0,
+    "fileId": 44
+  },
+  {
+    "name": "approver-approval",
+    "blobName": "9b8bc48c-b901-4bb6-86d7-bbe01df48acb.png",
+    "type": "image/png",
+    "size": 36670,
+    "active": "true",
+    "__v": 0,
+    "fileId": 45
+  },
+  {
+    "name": "executor-approval",
+    "blobName": "ad3b578e-6967-4b45-85e3-43aa0be2b87b.png",
+    "type": "image/png",
+    "size": 54709,
+    "active": "true",
+    "__v": 0,
+    "fileId": 46
+  },
+  {
+    "name": "executor-task",
+    "blobName": "72c45111-a4d3-47fd-a9ce-b168a1ced7d3.png",
+    "type": "image/png",
+    "size": 25518,
+    "active": "true",
+    "__v": 0,
+    "fileId": 47
+  },
+  {
+    "name": "usb-flow-diagram",
+    "blobName": "832c5820-0829-40dd-8597-994be9dd6194.png",
+    "type": "image/png",
+    "size": 45022,
+    "active": "true",
+    "__v": 0,
+    "fileId": 48
+  },
+  {
+    "name": "usb-form",
+    "blobName": "24ac5739-df34-45ad-af59-45e1b31ac772.png",
+    "type": "image/png",
+    "size": 36020,
+    "active": "true",
+    "__v": 0,
+    "fileId": 49
+  },
+  {
+    "name": "usb-form2",
+    "blobName": "9b87a79e-af4d-4f0f-9462-58ceddb67755.png",
+    "type": "image/png",
+    "size": 49467,
+    "active": "true",
+    "__v": 0,
+    "fileId": 50
+  },
+  {
+    "name": "usb-item",
+    "blobName": "4f8b54d5-b467-4946-b5bf-fb82fbeaab86.png",
+    "type": "image/png",
+    "size": 10908,
+    "active": "true",
+    "__v": 0,
+    "fileId": 51
+  },
+  {
+    "name": "request-generate",
+    "blobName": "2a1879bc-219b-4d2d-8772-a236077ad612.png",
+    "type": "image/png",
+    "size": 56869,
+    "active": "true",
+    "__v": 0,
+    "fileId": 52
+  },
+  {
+    "name": "unithead-approval",
+    "blobName": "da26054f-4855-4add-a319-c5ac23820f15.png",
+    "type": "image/png",
+    "size": 36670,
+    "active": "true",
+    "__v": 0,
+    "fileId": 53
+  },
+  {
+    "name": "division-home",
+    "blobName": "a8b6e1cc-c07b-48ca-a86a-281b6fce89c8.PNG",
+    "type": "image/png",
+    "size": 546915,
+    "active": "true",
+    "__v": 0,
+    "fileId": 54
+  },
+  {
+    "name": "event",
+    "blobName": "a4e3e1cd-0397-4a8e-bf61-ec3e816868ea.PNG",
+    "type": "image/png",
+    "size": 22445,
+    "active": "true",
+    "__v": 0,
+    "fileId": 55
+  },
+  {
+    "name": "news",
+    "blobName": "8c2ad61a-a418-40f3-9596-ab6798d8fd51.PNG",
+    "type": "image/png",
+    "size": 404169,
+    "active": "true",
+    "__v": 0,
+    "fileId": 56
+  },
+  {
+    "name": "planner-integration",
+    "blobName": "b1079568-f662-48e8-8f27-3300d6922705.PNG",
+    "type": "image/png",
+    "size": 52159,
+    "active": "true",
+    "__v": 0,
+    "fileId": 57
+  },
+  {
+    "name": "team-integration",
+    "blobName": "4527692e-b4ff-4a34-ba77-7fe942123ffb.PNG",
+    "type": "image/png",
+    "size": 17839,
+    "active": "true",
+    "__v": 0,
+    "fileId": 58
+  },
+  {
+    "name": "yammer-integration",
+    "blobName": "4616a98b-7025-438d-ab3e-31423cfd2c96.PNG",
+    "type": "image/png",
+    "size": 38042,
+    "active": "true",
+    "__v": 0,
+    "fileId": 59
+  },
+  {
+    "name": "Demo image",
+    "blobName": "00d377f8-99de-40c8-b399-98dc4850952d.png",
+    "type": "image/png",
+    "size": 10908,
+    "active": "true",
+    "__v": 0,
+    "fileId": 60
+  },
+  {
+    "name": "ific-logo",
+    "blobName": "2d2c4d8a-1a71-49e2-af01-6f21eeec6fae.png",
+    "type": "image/png",
+    "size": 98639,
+    "active": "true",
+    "__v": 0,
+    "fileId": 61
+  },
+  {
+    "name": "actialert-logo",
+    "blobName": "ab4b4349-031c-4f87-9138-91f077ac4779.png",
+    "type": "image/png",
+    "size": 7739,
+    "active": "true",
+    "__v": 0,
+    "fileId": 62
+  },
+  {
+    "name": "robi-logo",
+    "blobName": "9b6a3f48-2f97-4d73-855f-3857e7ff95e0.png",
+    "type": "image/png",
+    "size": 87562,
+    "active": "true",
+    "__v": 0,
+    "fileId": 63
+  },
+  {
+    "name": "ovass-logo",
+    "blobName": "db802ea2-61a6-400d-b875-f5dc60846abd.png",
+    "type": "image/png",
+    "size": 7410,
+    "active": "true",
+    "__v": 0,
+    "fileId": 64
+  },
+  {
+    "name": "wehireu-logo",
+    "blobName": "406e17f9-b52b-469b-ace0-31dc4f4d7f36.png",
+    "type": "image/png",
+    "size": 18330,
+    "active": "true",
+    "__v": 0,
+    "fileId": 65
+  },
+  {
+    "name": "Demo - Dedicated developers team ",
+    "blobName": "4c8b5907-e46a-474f-a14f-618348722e91.png",
+    "type": "image/png",
+    "size": 16813,
+    "active": "true",
+    "__v": 0,
+    "fileId": 66
+  },
+  {
+    "name": "Demo - e-commerce",
+    "blobName": "7ecde62b-8217-4bcb-bcb0-48b8ba21d8e1.png",
+    "type": "image/png",
+    "size": 25930,
+    "active": "true",
+    "__v": 0,
+    "fileId": 67
+  },
+  {
+    "name": "Demo - website",
+    "blobName": "bf09b483-4925-4094-aa55-e50da7fac748.png",
+    "type": "image/png",
+    "size": 98215,
+    "active": "true",
+    "__v": 0,
+    "fileId": 68
+  },
+  {
+    "name": "Demo - SME",
+    "blobName": "0f5ac109-d285-4ec1-a940-9f5d13410126.png",
+    "type": "image/png",
+    "size": 20242,
+    "active": "true",
+    "__v": 0,
+    "fileId": 69
+  },
+  {
+    "name": "Demo - web app",
+    "blobName": "a00ddef9-213c-446a-b21b-622df636cb2b.png",
+    "type": "image/png",
+    "size": 28274,
+    "active": "true",
+    "__v": 0,
+    "fileId": 70
+  },
+  {
+    "name": "cs-report",
+    "blobName": "9d14968b-f661-4960-84f8-a419153d7f57.png",
+    "type": "image/png",
+    "size": 61230,
+    "active": "true",
+    "__v": 0,
+    "fileId": 71
+  },
+  {
+    "name": "csm-task",
+    "blobName": "d7f612a6-161f-452a-8815-dda38ce6546f.png",
+    "type": "image/png",
+    "size": 291524,
+    "active": "true",
+    "__v": 0,
+    "fileId": 72
+  },
+  {
+    "name": "csm-task-process",
+    "blobName": "39261d5e-297b-4134-83d9-e872b25ad9c4.png",
+    "type": "image/png",
+    "size": 57137,
+    "active": "true",
+    "__v": 0,
+    "fileId": 73
+  },
+  {
+    "name": "customer-creation",
+    "blobName": "55b54bde-3958-4382-ad7d-f853047adbdf.png",
+    "type": "image/png",
+    "size": 111069,
+    "active": "true",
+    "__v": 0,
+    "fileId": 74
+  },
+  {
+    "name": "division-home",
+    "blobName": "5c3528b6-c3cc-46f4-8b3d-c42039f81dd8.PNG",
+    "type": "image/png",
+    "size": 546915,
+    "active": "true",
+    "__v": 0,
+    "fileId": 75
+  },
+  {
+    "name": "planner-integration",
+    "blobName": "f06aa872-acd2-4229-b263-e0c420196f6a.PNG",
+    "type": "image/png",
+    "size": 52159,
+    "active": "true",
+    "__v": 0,
+    "fileId": 76
+  },
+  {
+    "name": "teams-integration",
+    "blobName": "21f8ec6b-dbfc-4df5-a31e-c67315e35b17.PNG",
+    "type": "image/png",
+    "size": 17839,
+    "active": "true",
+    "__v": 0,
+    "fileId": 77
+  },
+  {
+    "name": "yammer-integration",
+    "blobName": "b38ac7fe-4f8c-43a5-b794-82682c947344.PNG",
+    "type": "image/png",
+    "size": 38042,
+    "active": "true",
+    "__v": 0,
+    "fileId": 78
+  },
+  {
+    "name": "flow-diagram",
+    "blobName": "61707eb2-346e-4618-b0d3-a4edb66383fa.png",
+    "type": "image/png",
+    "size": 45022,
+    "active": "true",
+    "__v": 0,
+    "fileId": 79
+  },
+  {
+    "name": "dashboard",
+    "blobName": "062ea6aa-c799-4106-918e-8a73874a84b0.png",
+    "type": "image/png",
+    "size": 60715,
+    "active": "true",
+    "__v": 0,
+    "fileId": 80
+  },
+  {
+    "name": "approval",
+    "blobName": "ad90551e-2f43-4f4b-b13d-2eab4e1cb95c.png",
+    "type": "image/png",
+    "size": 36670,
+    "active": "true",
+    "__v": 0,
+    "fileId": 81
+  },
+  {
+    "name": "form",
+    "blobName": "6c524f13-f0b2-4dfb-a0e3-d471a9a10912.png",
+    "type": "image/png",
+    "size": 36020,
+    "active": "true",
+    "__v": 0,
+    "fileId": 82
+  },
+  {
+    "name": "dms-flow",
+    "blobName": "68f0c610-7bfa-42e3-a133-22da065208c3.png",
+    "type": "image/png",
+    "size": 91637,
+    "active": "true",
+    "__v": 0,
+    "fileId": 83
+  },
+  {
+    "name": "robi_logo",
+    "blobName": "185d95a3-e823-4360-aff6-e53981d2ec15.png",
+    "type": "image/png",
+    "size": 131950,
+    "active": "true",
+    "__v": 0,
+    "fileId": 84
+  },
+  {
+    "name": "dms-cover",
+    "blobName": "0f3d5565-5222-4da2-ad8f-17befa4827dd.png",
+    "type": "image/png",
+    "size": 59983,
+    "active": "true",
+    "__v": 0,
+    "fileId": 85
+  },
+  {
+    "name": "dms-casestudy-1",
+    "blobName": "8132c737-23f6-4a69-b28e-6e2c6af26f52.png",
+    "type": "image/png",
+    "size": 125025,
+    "active": "true",
+    "__v": 0,
+    "fileId": 86
+  },
+  {
+    "name": "dms-casestudy-2",
+    "blobName": "b87c7260-c0c3-49c7-80a1-d0a6a4e3cde8.png",
+    "type": "image/png",
+    "size": 192211,
+    "active": "true",
+    "__v": 0,
+    "fileId": 87
+  },
+  {
+    "name": "dms-casestudy-3",
+    "blobName": "dd050a21-6143-4ea1-af4e-d2f4feda2828.png",
+    "type": "image/png",
+    "size": 207557,
+    "active": "true",
+    "__v": 0,
+    "fileId": 88
+  },
+  {
+    "name": "dms-casestudy-4",
+    "blobName": "0fbab1b6-3202-4eb0-ab51-c1abaf01b9a0.png",
+    "type": "image/png",
+    "size": 139731,
+    "active": "true",
+    "__v": 0,
+    "fileId": 89
+  },
+  {
+    "name": "Career Banner",
+    "blobName": "1f87bdc9-7f9a-4fbd-9395-fdc7e432e23f.jpg",
+    "type": "image/jpeg",
+    "size": 366530,
+    "active": "true",
+    "__v": 0,
+    "fileId": 90
+  },
+  {
+    "name": "about-us-video",
+    "blobName": "f1c134f3-1156-4735-8c6f-05255b23e468.webm",
+    "type": "video/webm",
+    "size": 2307701,
+    "active": "true",
+    "__v": 0,
+    "fileId": 91
+  },
+  {
+    "name": "IV-eCOmmerce",
+    "blobName": "4c554c63-7409-4e50-8c81-71cde265b6b1.png",
+    "type": "image/png",
+    "size": 61230,
+    "active": "true",
+    "__v": 0,
+    "fileId": 92
+  },
+  {
+    "name": "portal1",
+    "blobName": "06ea2601-32fa-40b2-bdf9-3382058b8592.png",
+    "type": "image/png",
+    "size": 474266,
+    "active": "true",
+    "__v": 0,
+    "fileId": 93
+  },
+  {
+    "name": "portal2",
+    "blobName": "a5851d07-ac11-4b04-a408-9526e39da0dd.png",
+    "type": "image/png",
+    "size": 78043,
+    "active": "true",
+    "__v": 0,
+    "fileId": 94
+  },
+  {
+    "name": "portal3",
+    "blobName": "3aee4b03-c987-47b5-b70d-6aa0c45ef738.png",
+    "type": "image/png",
+    "size": 129106,
+    "active": "true",
+    "__v": 0,
+    "fileId": 95
+  },
+  {
+    "name": "portal4",
+    "blobName": "85e0e564-1038-461f-b2b0-7363c59e347f.png",
+    "type": "image/png",
+    "size": 687014,
+    "active": "true",
+    "__v": 0,
+    "fileId": 96
+  },
+  {
+    "name": "eapproval1",
+    "blobName": "9d7d14ae-45a7-4aee-86b9-e69823b4ef8f.png",
+    "type": "image/png",
+    "size": 146685,
+    "active": "true",
+    "__v": 0,
+    "fileId": 97
+  },
+  {
+    "name": "eapproval2",
+    "blobName": "a26c6958-ede3-44b2-8f9b-929f74c1e04e.png",
+    "type": "image/png",
+    "size": 69743,
+    "active": "true",
+    "__v": 0,
+    "fileId": 98
+  },
+  {
+    "name": "eapproval3",
+    "blobName": "69cbf2be-c306-4ab2-abe0-c8f597ce297b.png",
+    "type": "image/png",
+    "size": 86641,
+    "active": "true",
+    "__v": 0,
+    "fileId": 99
+  },
+  {
+    "name": "eapproval4",
+    "blobName": "4307afaf-b1b9-4e15-86bf-004039bed9d4.png",
+    "type": "image/png",
+    "size": 133629,
+    "active": "true",
+    "__v": 0,
+    "fileId": 100
+  },
+  {
+    "name": "maptaskr1",
+    "blobName": "939b505d-121b-4279-b8d3-7b23eeeba053.png",
+    "type": "image/png",
+    "size": 739934,
+    "active": "true",
+    "__v": 0,
+    "fileId": 101
+  },
+  {
+    "name": "maptaskr2",
+    "blobName": "3e8b840a-4410-4297-84dc-a8379420d42b.png",
+    "type": "image/png",
+    "size": 681106,
+    "active": "true",
+    "__v": 0,
+    "fileId": 102
+  },
+  {
+    "name": "maptaskr3",
+    "blobName": "5421ae54-552f-436f-86e9-9f5c9a44a51b.png",
+    "type": "image/png",
+    "size": 1284582,
+    "active": "true",
+    "__v": 0,
+    "fileId": 103
+  },
+  {
+    "name": "maptaskr4",
+    "blobName": "b19b0e93-94ab-452f-994a-55dc9ea60a8b.png",
+    "type": "image/png",
+    "size": 805721,
+    "active": "true",
+    "__v": 0,
+    "fileId": 104
+  },
+  {
+    "name": "about-us-banner",
+    "blobName": "c13bc963-36f0-44b8-b4e0-2a49dafe59e4.webp",
+    "type": "image/webp",
+    "size": 40258,
+    "active": "true",
+    "__v": 0,
+    "fileId": 105
+  },
+  {
+    "name": "dms_thumbnail",
+    "blobName": "afc4c8e8-238e-4d48-8fa1-da8b31827348.png",
+    "type": "image/png",
+    "size": 20941,
+    "active": "true",
+    "__v": 0,
+    "fileId": 106
+  },
+  {
+    "name": "eapproval_thumbnail",
+    "blobName": "de0a0366-409c-4655-995f-a777973a96c0.png",
+    "type": "image/png",
+    "size": 25270,
+    "active": "true",
+    "__v": 0,
+    "fileId": 107
+  },
+  {
+    "name": "maptaskr_thumbnail",
+    "blobName": "cbd33800-c2f3-4a93-97e0-cb61db7f85fe.png",
+    "type": "image/png",
+    "size": 44892,
+    "active": "true",
+    "__v": 0,
+    "fileId": 108
+  },
+  {
+    "name": "portal_thumbnail",
+    "blobName": "b074ac3b-8dcf-418e-aa86-73749328b5b9.png",
+    "type": "image/png",
+    "size": 40223,
+    "active": "true",
+    "__v": 0,
+    "fileId": 109
+  },
+  {
+    "name": "weehireu_thumbnail",
+    "blobName": "d4fbc4d8-4c28-458d-ab82-0af6f2185a48.png",
+    "type": "image/png",
+    "size": 37376,
+    "active": "true",
+    "__v": 0,
+    "fileId": 110
+  },
+  {
+    "name": "actialert_thumbnail",
+    "blobName": "057ddda0-40c5-4cf9-9c9a-aa3aff823894.png",
+    "type": "image/png",
+    "size": 25876,
+    "active": "true",
+    "__v": 0,
+    "fileId": 111
+  },
+  {
+    "name": "actialert1",
+    "blobName": "dbee8828-f139-433c-8d10-6274f389389c.png",
+    "type": "image/png",
+    "size": 434648,
+    "active": "true",
+    "__v": 0,
+    "fileId": 112
+  },
+  {
+    "name": "actialert2",
+    "blobName": "a739b482-99b6-4784-9bff-6a41cc2e6e00.png",
+    "type": "image/png",
+    "size": 113266,
+    "active": "true",
+    "__v": 0,
+    "fileId": 113
+  },
+  {
+    "name": "actialert3",
+    "blobName": "7cf5f945-99dc-4119-91b3-f30732eac4dd.png",
+    "type": "image/png",
+    "size": 56815,
+    "active": "true",
+    "__v": 0,
+    "fileId": 114
+  },
+  {
+    "name": "actialert4",
+    "blobName": "956eaef7-2221-48ad-b2d5-22719616b7a3.png",
+    "type": "image/png",
+    "size": 137131,
+    "active": "true",
+    "__v": 0,
+    "fileId": 115
+  },
+  {
+    "name": "caretaskr_thumbnail",
+    "blobName": "4c3d8651-a85a-43ad-bcba-d226b99f4e46.webp",
+    "type": "image/webp",
+    "size": 97467,
+    "active": "true",
+    "__v": 0,
+    "fileId": 116
+  },
+  {
+    "name": "caretaskr_banner",
+    "blobName": "6e969499-9390-4b6d-893b-643ba0b9d38e.webp",
+    "type": "image/webp",
+    "size": 153578,
+    "active": "true",
+    "__v": 0,
+    "fileId": 117
+  },
+  {
+    "name": "caretaskr1",
+    "blobName": "78ab70bb-cdb7-42a5-8ddf-3afd2e82de6e.png",
+    "type": "image/png",
+    "size": 99752,
+    "active": "true",
+    "__v": 0,
+    "fileId": 118
+  },
+  {
+    "name": "caretaskr2",
+    "blobName": "6440aa5c-6f9a-4e78-8442-dde21688785f.png",
+    "type": "image/png",
+    "size": 122590,
+    "active": "true",
+    "__v": 0,
+    "fileId": 119
+  },
+  {
+    "name": "iv-commerce1",
+    "blobName": "925c5e5f-6c39-4d3f-a8fc-c6a94bd2e64c.webp",
+    "type": "image/webp",
+    "size": 127505,
+    "active": "true",
+    "__v": 0,
+    "fileId": 120
+  },
+  {
+    "name": "iv-commerce2",
+    "blobName": "feeae575-b934-4d2c-b903-fdd0cbda3ea0.webp",
+    "type": "image/webp",
+    "size": 134326,
+    "active": "true",
+    "__v": 0,
+    "fileId": 121
+  },
+  {
+    "name": "iv-commerce3",
+    "blobName": "035a8967-429e-489f-8175-1726bfbb34e7.webp",
+    "type": "image/webp",
+    "size": 131273,
+    "active": "true",
+    "__v": 0,
+    "fileId": 122
+  },
+  {
+    "name": "iv-commerce4",
+    "blobName": "df894e21-2c8b-4e85-849d-c9d2b76e2d36.png",
+    "type": "image/png",
+    "size": 336444,
+    "active": "true",
+    "__v": 0,
+    "fileId": 123
+  },
+  {
+    "name": "iv-commerce4",
+    "blobName": "6edd6322-fc3d-4e51-97b5-788e3474fa97.png",
+    "type": "image/png",
+    "size": 336444,
+    "active": "true",
+    "__v": 0,
+    "fileId": 124
+  },
+  {
+    "name": "iv-commerce5",
+    "blobName": "b98d95a8-48cf-4500-81a3-376217e43d3c.png",
+    "type": "image/png",
+    "size": 59573,
+    "active": "true",
+    "__v": 0,
+    "fileId": 125
+  },
+  {
+    "name": "iv-commerce6",
+    "blobName": "b7318fa1-3efc-42cf-8f94-fb358ad369cf.png",
+    "type": "image/png",
+    "size": 478524,
+    "active": "true",
+    "__v": 0,
+    "fileId": 126
+  },
+  {
+    "name": "ivcommerce-Flow",
+    "blobName": "8c590139-9268-4e90-bbe9-4c18122dd128.png",
+    "type": "image/png",
+    "size": 74720,
+    "active": "true",
+    "__v": 0,
+    "fileId": 127
+  },
+  {
+    "name": "Cover image of about ",
+    "blobName": "d6bce427-5c85-4b55-ad6f-aeaa8e8a53ad.mp4",
+    "type": "video/mp4",
+    "size": 14985417,
+    "active": "true",
+    "__v": 0,
+    "fileId": 128
+  },
+  {
+    "name": "Our Mission Image ",
+    "blobName": "e48c2d41-c198-4e47-b898-6277b4b3a522.jpg",
+    "type": "image/jpeg",
+    "size": 773583,
+    "active": "true",
+    "__v": 0,
+    "fileId": 129
+  },
+  {
+    "name": "IV thumbnail",
+    "blobName": "4aa2b04b-607e-4d30-ad2f-6029b0271695.png",
+    "type": "image/png",
+    "size": 418512,
+    "active": "true",
+    "__v": 0,
+    "fileId": 130
+  },
+  {
+    "name": "IV1",
+    "blobName": "82dcf07d-ff8a-4afd-9b74-236abd03d3eb.png",
+    "type": "image/png",
+    "size": 513816,
+    "active": "true",
+    "__v": 0,
+    "fileId": 131
+  },
+  {
+    "name": "IV3",
+    "blobName": "f4095953-4bd1-47bb-96d4-f9cc919cafc3.png",
+    "type": "image/png",
+    "size": 1949761,
+    "active": "true",
+    "__v": 0,
+    "fileId": 132
+  },
+  {
+    "name": "IV2",
+    "blobName": "fe5d52c1-859b-44a4-a3ca-1a82045191f4.png",
+    "type": "image/png",
+    "size": 644389,
+    "active": "true",
+    "__v": 0,
+    "fileId": 133
+  },
+  {
+    "name": "IV5",
+    "blobName": "001829e1-0306-438d-9aa6-b07990544150.png",
+    "type": "image/png",
+    "size": 1110098,
+    "active": "true",
+    "__v": 0,
+    "fileId": 134
+  },
+  {
+    "name": "Acti Alert Article Cover ",
+    "blobName": "1826f3c9-82ec-44c1-831d-56a0bb6011e5.webp",
+    "type": "image/webp",
+    "size": 72364,
+    "active": "true",
+    "__v": 0,
+    "fileId": 135
+  },
+  {
+    "name": "Acti Alert Article Banner 1",
+    "blobName": "3e7c1a90-7837-4945-8546-db2a81ba18f2.webp",
+    "type": "image/webp",
+    "size": 102398,
+    "active": "true",
+    "__v": 0,
+    "fileId": 136
+  },
+  {
+    "name": "Actialert dashboard ",
+    "blobName": "61dd7446-e862-439d-888d-9a8517455938.png",
+    "type": "image/png",
+    "size": 136650,
+    "active": "true",
+    "__v": 0,
+    "fileId": 137
+  },
+  {
+    "name": "Actialert package ",
+    "blobName": "5d152045-b25a-413a-8364-b8c4b3b72f9c.png",
+    "type": "image/png",
+    "size": 336582,
+    "active": "true",
+    "__v": 0,
+    "fileId": 138
+  },
+  {
+    "name": "QA Automation Banner",
+    "blobName": "0d426182-1123-49f6-af53-26e4e9e4f773.png",
+    "type": "image/png",
+    "size": 8227,
+    "active": "true",
+    "__v": 0,
+    "fileId": 139
+  },
+  {
+    "name": "QA WEbdriver",
+    "blobName": "c39346ca-e995-4c84-8bbe-f432a47c34b3.png",
+    "type": "image/png",
+    "size": 27978,
+    "active": "true",
+    "__v": 0,
+    "fileId": 140
+  },
+  {
+    "name": "QAJMeter1",
+    "blobName": "5362fe60-ae27-45d8-807f-47c00db79b31.png",
+    "type": "image/png",
+    "size": 77712,
+    "active": "true",
+    "__v": 0,
+    "fileId": 141
+  },
+  {
+    "name": "QAApprium1",
+    "blobName": "6b3616e4-91a3-4af2-926f-9e780e271eb3.png",
+    "type": "image/png",
+    "size": 219997,
+    "active": "true",
+    "__v": 0,
+    "fileId": 142
+  },
+  {
+    "name": "QAApprium2",
+    "blobName": "f09b04bf-91aa-4282-9356-05db920a686c.png",
+    "type": "image/png",
+    "size": 136796,
+    "active": "true",
+    "__v": 0,
+    "fileId": 143
+  },
+  {
+    "name": "QASoap1",
+    "blobName": "ba9438c9-40b4-4f6d-9d4b-ab4afdd12acc.png",
+    "type": "image/png",
+    "size": 39552,
+    "active": "true",
+    "__v": 0,
+    "fileId": 144
+  },
+  {
+    "name": "Jmeter",
+    "blobName": "bbec3aaa-291d-4fae-b3e0-35c178f94415.png",
+    "type": "image/png",
+    "size": 8889,
+    "active": "true",
+    "__v": 0,
+    "fileId": 145
+  },
+  {
+    "name": "jroadmap",
+    "blobName": "10f6d999-b258-40e6-98a5-f5812c86bfcf.png",
+    "type": "image/png",
+    "size": 10112,
+    "active": "true",
+    "__v": 0,
+    "fileId": 146
+  },
+  {
+    "name": "step1pic1",
+    "blobName": "692e6ab2-f144-4060-98ee-d0dae12c3e30.png",
+    "type": "image/png",
+    "size": 31860,
+    "active": "true",
+    "__v": 0,
+    "fileId": 147
+  },
+  {
+    "name": "step1pic2",
+    "blobName": "4bbf4092-66f1-4ecc-9581-c7608e98e8fe.png",
+    "type": "image/png",
+    "size": 10590,
+    "active": "true",
+    "__v": 0,
+    "fileId": 148
+  },
+  {
+    "name": "step2pic1",
+    "blobName": "598d127f-1794-4513-98a2-38ce2470df44.webp",
+    "type": "image/webp",
+    "size": 60603,
+    "active": "true",
+    "__v": 0,
+    "fileId": 149
+  },
+  {
+    "name": "step2pic2",
+    "blobName": "0f97fd28-3ce1-4ef6-9b6c-11de20ca5209.webp",
+    "type": "image/webp",
+    "size": 21292,
+    "active": "true",
+    "__v": 0,
+    "fileId": 150
+  },
+  {
+    "name": "step2pic3",
+    "blobName": "d5fc5cbe-5405-4b25-95ff-f023bc77f330.webp",
+    "type": "image/webp",
+    "size": 58862,
+    "active": "true",
+    "__v": 0,
+    "fileId": 151
+  },
+  {
+    "name": "step2pic4",
+    "blobName": "801df127-a10b-4631-a9d1-bd162c1911d6.webp",
+    "type": "image/webp",
+    "size": 9846,
+    "active": "true",
+    "__v": 0,
+    "fileId": 152
+  },
+  {
+    "name": "step3pic1",
+    "blobName": "a3f14b79-e7d4-495d-a6ae-1e8395d9b4c6.webp",
+    "type": "image/webp",
+    "size": 52026,
+    "active": "true",
+    "__v": 0,
+    "fileId": 153
+  },
+  {
+    "name": "s4p1",
+    "blobName": "92828c2b-6cc6-43a9-8c3a-8d0d9211d65f.webp",
+    "type": "image/webp",
+    "size": 60311,
+    "active": "true",
+    "__v": 0,
+    "fileId": 154
+  },
+  {
+    "name": "IV image1",
+    "blobName": "c82cc99d-397a-42d1-bff9-d772dbeb07fe.webp",
+    "type": "image/webp",
+    "size": 446597,
+    "active": "true",
+    "__v": 0,
+    "fileId": 155
+  },
+  {
+    "name": "IV image3",
+    "blobName": "2b0dcf53-691b-4ee5-a4d8-e9d14317785e.webp",
+    "type": "image/webp",
+    "size": 423984,
+    "active": "true",
+    "__v": 0,
+    "fileId": 156
+  },
+  {
+    "name": "IV image2",
+    "blobName": "53be350a-3868-4cdc-94bd-b92f86cb1478.webp",
+    "type": "image/webp",
+    "size": 525091,
+    "active": "true",
+    "__v": 0,
+    "fileId": 157
+  },
+  {
+    "name": "Career Banner Video",
+    "blobName": "840eda00-4802-4d6f-8528-76dedb64afb9.mp4",
+    "type": "video/mp4",
+    "size": 53968,
+    "active": "true",
+    "__v": 0,
+    "fileId": 158
+  },
+  {
+    "name": "digital_marketing",
+    "blobName": "ee9e0916-a909-4173-8cbf-b4d254bdd12d.webp",
+    "type": "image/webp",
+    "size": 98650,
+    "active": "true",
+    "__v": 0,
+    "fileId": 159
+  },
+  {
+    "name": "best_digital_marketing_company_bangladesh",
+    "blobName": "d785b890-de5d-4ef2-af74-e8ba6fe151d3.webp",
+    "type": "image/webp",
+    "size": 98650,
+    "active": "true",
+    "__v": 0,
+    "fileId": 160
+  },
+  {
+    "name": "best_software_company_implevista",
+    "blobName": "cb35b80f-26e7-44f4-8350-d6fcfd356b54.jpg",
+    "type": "image/jpeg",
+    "size": 13770739,
+    "active": "true",
+    "__v": 0,
+    "fileId": 161
+  },
+  {
+    "name": "best_software_comoany_implevista_logo",
+    "blobName": "ec33c8e9-8294-459a-8c7a-da402f253087.png",
+    "type": "image/png",
+    "size": 15037,
+    "active": "true",
+    "__v": 0,
+    "fileId": 162
+  },
+  {
+    "name": "iquidi Accounting Software",
+    "blobName": "5de8d7c5-726f-4fd0-98a1-419702c6d96c.jpg",
+    "type": "image/jpeg",
+    "size": 9867545,
+    "active": "true",
+    "__v": 0,
+    "fileId": 163
+  },
+  {
+    "name": "best software company in Bangladesh",
+    "blobName": "ce7c6958-7724-407a-96d4-b8eeee983759.jpg",
+    "type": "image/jpeg",
+    "size": 43788,
+    "active": "true",
+    "__v": 0,
+    "fileId": 164
+  },
+  {
+    "name": "best software company in Bangladesh infographic",
+    "blobName": "ac081ab7-40df-4105-a9c9-b017bafb128d.jpg",
+    "type": "image/jpeg",
+    "size": 49850,
+    "active": "true",
+    "__v": 0,
+    "fileId": 165
+  },
+  {
+    "name": "Best digital marketing company in Bangladesh",
+    "blobName": "c5639ba0-f8cc-4d2f-9c3f-277ba544b84a.jpg",
+    "type": "image/jpeg",
+    "size": 52309,
+    "active": "true",
+    "__v": 0,
+    "fileId": 166
+  },
+  {
+    "name": "IOS app development company implevista",
+    "blobName": "82be7536-2e5b-45ba-8477-a5e6eff7a604.jpg",
+    "type": "image/jpeg",
+    "size": 41930,
+    "active": "true",
+    "__v": 0,
+    "fileId": 167
+  },
+  {
+    "name": "android app development company in Bangladesh Implevista",
+    "blobName": "46ba15d9-4ed9-48d4-9b20-e472723d6d51.jpg",
+    "type": "image/jpeg",
+    "size": 49396,
+    "active": "true",
+    "__v": 0,
+    "fileId": 168
+  },
+  {
+    "name": "mobile app development company implevista",
+    "blobName": "1a744182-ca83-4f8c-a9e0-6133b61b45f5.jpg",
+    "type": "image/jpeg",
+    "size": 50101,
+    "active": "true",
+    "__v": 0,
+    "fileId": 169
+  },
+  {
+    "name": "Best SEO Service company in Bangladesh Implevista image",
+    "blobName": "b15e07bf-70ee-43ad-b20b-1c0bcf894893.jpg",
+    "type": "image/jpeg",
+    "size": 51740,
+    "active": "true",
+    "__v": 0,
+    "fileId": 170
+  },
+  {
+    "name": "Best SEO Service Company in Bangladesh infographic",
+    "blobName": "f5a0e644-6d0e-45e8-804b-03222a2f3d24.jpg",
+    "type": "image/jpeg",
+    "size": 55264,
+    "active": "true",
+    "__v": 0,
+    "fileId": 171
+  },
+  {
+    "name": "Best SEO company in Bangladesh image",
+    "blobName": "44e517a5-732f-4ea4-af6e-2e40587c58b1.jpg",
+    "type": "image/jpeg",
+    "size": 46281,
+    "active": "true",
+    "__v": 0,
+    "fileId": 172
+  },
+  {
+    "name": "SAP Solution Manager",
+    "blobName": "3a415eb6-a0ca-4c8e-a949-148017cefcc3.jpg",
+    "type": "image/jpeg",
+    "size": 73500,
+    "active": "true",
+    "__v": 0,
+    "fileId": 173
+  },
+  {
+    "name": "SAP BASIS",
+    "blobName": "23fd6a8c-a8f1-41c2-bda9-698593610821.jpg",
+    "type": "image/jpeg",
+    "size": 92788,
+    "active": "true",
+    "__v": 0,
+    "fileId": 174
+  },
+  {
+    "name": "SAP ABAP/PI/ODATA/UI5",
+    "blobName": "ec7662a7-f54b-4607-a24f-b1a2122ff32a.jpg",
+    "type": "image/jpeg",
+    "size": 122043,
+    "active": "true",
+    "__v": 0,
+    "fileId": 175
+  },
+  {
+    "name": "SAP S4HANA implementations",
+    "blobName": "6be6d169-9597-4854-be02-35127685e8f6.jpg",
+    "type": "image/jpeg",
+    "size": 113957,
+    "active": "true",
+    "__v": 0,
+    "fileId": 176
+  },
+  {
+    "name": "S4HANA implementations infographic",
+    "blobName": "ce4956b7-05d8-4c4f-8f86-c270a82ea8a1.jpg",
+    "type": "image/jpeg",
+    "size": 103372,
+    "active": "true",
+    "__v": 0,
+    "fileId": 177
+  },
+  {
+    "name": "SAP S4HANA implementations infographic",
+    "blobName": "3861aa63-1471-4782-abef-f9578b5b66a3.jpg",
+    "type": "image/jpeg",
+    "size": 70165,
+    "active": "true",
+    "__v": 0,
+    "fileId": 178
+  },
+  {
+    "name": "SAP S4HANA Services",
+    "blobName": "4bb6c1ad-73a7-4a0c-996c-839d988410fc.jpg",
+    "type": "image/jpeg",
+    "size": 303439,
+    "active": "true",
+    "__v": 0,
+    "fileId": 179
+  },
+  {
+    "name": "SAP Solution Manager Slider image",
+    "blobName": "886bae11-29ef-4caf-8c1e-995b2e20bec8.webp",
+    "type": "image/webp",
+    "size": 19546,
+    "active": "true",
+    "__v": 0,
+    "fileId": 180
+  },
+  {
+    "name": "SAP Service Slider",
+    "blobName": "005131a2-598f-4971-b371-0b5144e4c14c.jpg",
+    "type": "image/jpeg",
+    "size": 50107,
+    "active": "true",
+    "__v": 0,
+    "fileId": 181
+  },
+  {
+    "name": "QA Intern ",
+    "blobName": "b7a5b64a-98fb-48bb-af18-63b31391488a.jpg",
+    "type": "image/jpeg",
+    "size": 75456,
+    "active": "true",
+    "__v": 0,
+    "fileId": 182
+  },
+  {
+    "name": "Intern C#",
+    "blobName": "e3e71a5e-1b75-43bf-8287-b93115041d4d.jpg",
+    "type": "image/jpeg",
+    "size": 77909,
+    "active": "true",
+    "__v": 0,
+    "fileId": 183
+  },
+  {
+    "name": "DBS_Client_logo",
+    "blobName": "4d560a54-777f-44be-99bb-abd7addd8741.png",
+    "type": "image/png",
+    "size": 10274,
+    "active": "true",
+    "__v": 0,
+    "fileId": 184
+  },
+  {
+    "name": "Blockchain_development",
+    "blobName": "a147ba5d-2e40-49c1-901d-c4daac8de2e2.webp",
+    "type": "image/webp",
+    "size": 294378,
+    "active": "true",
+    "__v": 0,
+    "fileId": 185
+  },
+  {
+    "name": "Blockchain_development_infographic",
+    "blobName": "096f22f4-d120-4d93-8684-db435430533c.webp",
+    "type": "image/webp",
+    "size": 100652,
+    "active": "true",
+    "__v": 0,
+    "fileId": 186
+  },
+  {
+    "name": "SAP_CLOUD_ALM",
+    "blobName": "eefdced8-5cea-4a03-9295-b96fef8c284f.webp",
+    "type": "image/webp",
+    "size": 17898,
+    "active": "true",
+    "__v": 0,
+    "fileId": 187
+  },
+  {
+    "name": "Test",
+    "blobName": "ac986321-f562-48a3-9780-92b1131c77a8.png",
+    "type": "image/png",
+    "size": 52775,
+    "active": "true",
+    "__v": 0,
+    "fileId": 188
+  },
+  {
+    "name": "SAP H4 HANA",
+    "blobName": "3067c8df-b82b-4c89-963d-dc3eb1d070fb.webp",
+    "type": "image/webp",
+    "size": 19528,
+    "active": "true",
+    "__v": 0,
+    "fileId": 189
+  },
+  {
+    "name": "SAP Business Technology",
+    "blobName": "b320578b-bfe8-41f3-8158-750831d7bf35.webp",
+    "type": "image/webp",
+    "size": 25606,
+    "active": "true",
+    "__v": 0,
+    "fileId": 190
+  },
+  {
+    "name": "SAP Process monitor Slider Image",
+    "blobName": "2a3c2302-0c74-4862-abfc-e8af16573aa8.webp",
+    "type": "image/webp",
+    "size": 20652,
+    "active": "true",
+    "__v": 0,
+    "fileId": 191
+  },
+  {
+    "name": "Web analytics for ecommerce business",
+    "blobName": "08172691-351d-4457-bb2c-f6455ae1522e.webp",
+    "type": "image/webp",
+    "size": 125612,
+    "active": "true",
+    "__v": 0,
+    "fileId": 192
+  },
+  {
+    "name": "DMS Cover Image",
+    "blobName": "8f8837fd-fa50-458b-a2c4-193464886f3e.webp",
+    "type": "image/webp",
+    "size": 56984,
+    "active": "true",
+    "__v": 0,
+    "fileId": 193
+  },
+  {
+    "name": "Document management System iquidi",
+    "blobName": "4bf3df8b-2c32-42da-aca1-2d8d9eb76576.webp",
+    "type": "image/webp",
+    "size": 41146,
+    "active": "true",
+    "__v": 0,
+    "fileId": 194
+  },
+  {
+    "name": "Document management System In Bangladesh iquidi",
+    "blobName": "4372c6f7-0e8e-4e93-b18b-2d232b5fb52f.webp",
+    "type": "image/webp",
+    "size": 40362,
+    "active": "true",
+    "__v": 0,
+    "fileId": 195
+  },
+  {
+    "name": "iquidi Document management System",
+    "blobName": "b253ecb7-90d7-4d2b-8ebf-de3512ded4fc.webp",
+    "type": "image/webp",
+    "size": 40480,
+    "active": "true",
+    "__v": 0,
+    "fileId": 196
+  },
+  {
+    "name": "Document management System Work Flow Diagram",
+    "blobName": "4b44c204-0437-443a-a352-503d42991ffb.webp",
+    "type": "image/webp",
+    "size": 48980,
+    "active": "true",
+    "__v": 0,
+    "fileId": 197
+  },
+  {
+    "name": "Implevista Logo",
+    "blobName": "acd5e692-8d7b-416e-abb9-9f8fcd465297.png",
+    "type": "image/png",
+    "size": 78906,
+    "active": "true",
+    "__v": 0,
+    "fileId": 198
+  },
+  {
+    "name": "Microsoft Dynamic 365 Development company",
+    "blobName": "f8aa5d25-e03c-4d69-9b77-581e181cfcf0.jpg",
+    "type": "image/jpeg",
+    "size": 114430,
+    "active": "true",
+    "__v": 0,
+    "fileId": 199
+  },
+  {
+    "name": "Microsoft",
+    "blobName": "da6b3b55-3178-4bed-8090-b66f5a75721f.jpg",
+    "type": "image/jpeg",
+    "size": 142194,
+    "active": "true",
+    "__v": 0,
+    "fileId": 200
+  },
+  {
+    "name": "Microsoft Dynamic 365 infographic",
+    "blobName": "79fb8e22-74c9-4123-b7e3-8f3871102cda.jpg",
+    "type": "image/jpeg",
+    "size": 108603,
+    "active": "true",
+    "__v": 0,
+    "fileId": 201
+  },
+  {
+    "name": "SharePoint Development Company in Bangladesh",
+    "blobName": "470ee897-f93d-4e7d-a879-523a8ab9af91.jpg",
+    "type": "image/jpeg",
+    "size": 63721,
+    "active": "true",
+    "__v": 0,
+    "fileId": 202
+  },
+  {
+    "name": "SharePoint Development infographic",
+    "blobName": "dc3ccca1-61be-4bee-af4e-17d263d207ce.jpg",
+    "type": "image/jpeg",
+    "size": 48049,
+    "active": "true",
+    "__v": 0,
+    "fileId": 203
+  },
+  {
+    "name": "SharePoint Solution provider company in Bangladesh",
+    "blobName": "8634f38f-767a-4ee8-b125-5a31297616ba.jpg",
+    "type": "image/jpeg",
+    "size": 63149,
+    "active": "true",
+    "__v": 0,
+    "fileId": 204
+  },
+  {
+    "name": "Travel Agency Software User Role Image",
+    "blobName": "9576cf75-67e3-4ef6-b741-dfbc6004d326.jpg",
+    "type": "image/jpeg",
+    "size": 144083,
+    "active": "true",
+    "__v": 0,
+    "fileId": 205
+  },
+  {
+    "name": "Travel Agency Software Tour Plan Image",
+    "blobName": "8e056664-9345-42f2-bf4e-1713c898f614.jpg",
+    "type": "image/jpeg",
+    "size": 133111,
+    "active": "true",
+    "__v": 0,
+    "fileId": 206
+  },
+  {
+    "name": "Travel Agency Software Dashboard Image",
+    "blobName": "5e8c2ad5-c29a-45ac-9f8e-272364474b49.jpg",
+    "type": "image/jpeg",
+    "size": 140440,
+    "active": "true",
+    "__v": 0,
+    "fileId": 207
+  },
+  {
+    "name": "Travel Agency Software Booking Image",
+    "blobName": "4fedfc43-7ce3-4cc3-a855-58e75699f182.jpg",
+    "type": "image/jpeg",
+    "size": 195184,
+    "active": "true",
+    "__v": 0,
+    "fileId": 208
+  },
+  {
+    "name": "Travel Agency Software TopUp image",
+    "blobName": "70eee224-643d-4dcc-b0e7-5bd5251488c8.jpg",
+    "type": "image/jpeg",
+    "size": 166115,
+    "active": "true",
+    "__v": 0,
+    "fileId": 209
+  },
+  {
+    "name": "Travel Agency Software TopUp Request image",
+    "blobName": "89dde36d-2ddf-4959-8c36-071d0332906c.jpg",
+    "type": "image/jpeg",
+    "size": 167912,
+    "active": "true",
+    "__v": 0,
+    "fileId": 210
+  },
+  {
+    "name": "Travel Agency Software in Bangladesh",
+    "blobName": "70a276b9-cd80-453c-a089-50b700dedbb9.jpg",
+    "type": "image/jpeg",
+    "size": 2427308,
+    "active": "true",
+    "__v": 0,
+    "fileId": 211
+  },
+  {
+    "name": "Travel Agency Software in Bangladesh",
+    "blobName": "8b5784b7-0165-4fcd-b8c2-6068dac5bf93.jpg",
+    "type": "image/jpeg",
+    "size": 2427308,
+    "active": "true",
+    "__v": 0,
+    "fileId": 212
+  },
+  {
+    "name": "iquidi Banner",
+    "blobName": "559b9848-6d68-41ec-8401-835c55861e9f.jpg",
+    "type": "image/jpeg",
+    "size": 296438,
+    "active": "true",
+    "__v": 0,
+    "fileId": 213
+  },
+  {
+    "name": "IV-eCOmmerce",
+    "blobName": "787240ba-8f9f-4770-a58f-d6f0b3a8a2cd.jpg",
+    "type": "image/jpeg",
+    "size": 474553,
+    "active": "true",
+    "__v": 0,
+    "fileId": 214
+  },
+  {
+    "name": "Acti Alert",
+    "blobName": "00d4bf7e-b1a1-415e-8a0d-8310617d18c9.png",
+    "type": "image/png",
+    "size": 10127,
+    "active": "true",
+    "__v": 0,
+    "fileId": 215
+  },
+  {
+    "name": "Robi Axiata Limited",
+    "blobName": "fc455a8d-8de4-4d0f-8c51-98201674c6a2.png",
+    "type": "image/png",
+    "size": 21322,
+    "active": "true",
+    "__v": 0,
+    "fileId": 216
+  },
+  {
+    "name": "IFIC Bank",
+    "blobName": "9d5905cc-7b57-4d86-b68b-8c566e38e469.png",
+    "type": "image/png",
+    "size": 20029,
+    "active": "true",
+    "__v": 0,
+    "fileId": 217
+  },
+  {
+    "name": "Dong Energy",
+    "blobName": "e6d4d4c8-a435-4459-9ca7-d30795c8843b.png",
+    "type": "image/png",
+    "size": 11122,
+    "active": "true",
+    "__v": 0,
+    "fileId": 218
+  },
+  {
+    "name": "IFB Industries Ltd",
+    "blobName": "eac3cb3a-fa80-45dd-bf6a-3fdf8c571ca0.png",
+    "type": "image/png",
+    "size": 13674,
+    "active": "true",
+    "__v": 0,
+    "fileId": 219
+  },
+  {
+    "name": "Maersk",
+    "blobName": "a290cb5a-cfea-42d3-9437-8a0e287592a4.png",
+    "type": "image/png",
+    "size": 11669,
+    "active": "true",
+    "__v": 0,
+    "fileId": 220
+  },
+  {
+    "name": "Fiat Automobiles",
+    "blobName": "5e291b17-9e50-4020-997b-07e773b88097.png",
+    "type": "image/png",
+    "size": 33657,
+    "active": "true",
+    "__v": 0,
+    "fileId": 221
+  },
+  {
+    "name": "Mahindra & Mahindra",
+    "blobName": "0d49b043-573f-40e8-83da-d25922594a18.png",
+    "type": "image/png",
+    "size": 7289,
+    "active": "true",
+    "__v": 0,
+    "fileId": 222
+  },
+  {
+    "name": "OVASS",
+    "blobName": "4505bd8e-7acf-4a74-a049-c43e1c90624d.png",
+    "type": "image/png",
+    "size": 14714,
+    "active": "true",
+    "__v": 0,
+    "fileId": 223
+  },
+  {
+    "name": "Novozymes",
+    "blobName": "9ed3f577-f429-462c-adc4-867d59dc0436.png",
+    "type": "image/png",
+    "size": 14820,
+    "active": "true",
+    "__v": 0,
+    "fileId": 224
+  },
+  {
+    "name": "Banedanmark",
+    "blobName": "664f2be3-e9bd-47a8-955b-5b2742b37c2f.png",
+    "type": "image/png",
+    "size": 8840,
+    "active": "true",
+    "__v": 0,
+    "fileId": 225
+  },
+  {
+    "name": "Carlsberg Group",
+    "blobName": "351bf694-20a4-4c9f-a2d7-992032166917.png",
+    "type": "image/png",
+    "size": 21896,
+    "active": "true",
+    "__v": 0,
+    "fileId": 226
+  },
+  {
+    "name": "DBS Bank",
+    "blobName": "79321e15-dc37-4daa-b46a-4516b177cb54.png",
+    "type": "image/png",
+    "size": 10274,
+    "active": "true",
+    "__v": 0,
+    "fileId": 227
+  },
+  {
+    "name": "Endurance",
+    "blobName": "76892c82-8006-491d-b6a7-f8a76b464335.png",
+    "type": "image/png",
+    "size": 19593,
+    "active": "true",
+    "__v": 0,
+    "fileId": 228
+  },
+  {
+    "name": "The Himalaya Drug Company",
+    "blobName": "36ee1073-259f-4301-aef5-7e85cf3f19ba.png",
+    "type": "image/png",
+    "size": 29583,
+    "active": "true",
+    "__v": 0,
+    "fileId": 229
+  },
+  {
+    "name": "KMD",
+    "blobName": "d09014b2-0a4b-4cae-82e5-28096a5799e1.png",
+    "type": "image/png",
+    "size": 17613,
+    "active": "true",
+    "__v": 0,
+    "fileId": 230
+  },
+  {
+    "name": "Nordea Bank Danmark A/S",
+    "blobName": "685a4c42-7a4f-40df-b760-9f629d288f97.png",
+    "type": "image/png",
+    "size": 12741,
+    "active": "true",
+    "__v": 0,
+    "fileId": 231
+  },
+  {
+    "name": "Reliance Industries Limited",
+    "blobName": "4a4c8a85-d590-43ef-83c9-82e5d7542370.png",
+    "type": "image/png",
+    "size": 16825,
+    "active": "true",
+    "__v": 0,
+    "fileId": 232
+  },
+  {
+    "name": "Rolex",
+    "blobName": "2af15a8c-c52e-44bb-a0f4-dabae4d593ef.png",
+    "type": "image/png",
+    "size": 15969,
+    "active": "true",
+    "__v": 0,
+    "fileId": 233
+  },
+  {
+    "name": "HoleCim",
+    "blobName": "dff2966b-fb48-4851-886a-e77e68c7b854.svg",
+    "type": "image/svg+xml",
+    "size": 2281,
+    "active": "true",
+    "__v": 0,
+    "fileId": 234
+  },
+  {
+    "name": "automative",
+    "blobName": "b94d1300-a0a3-4be8-811f-263dbbd409ec.png",
+    "type": "image/png",
+    "size": 4660,
+    "active": "true",
+    "__v": 0,
+    "fileId": 235
+  },
+  {
+    "name": "ecom",
+    "blobName": "e18de678-0000-4233-9f93-5b1cf30e8f72.png",
+    "type": "image/png",
+    "size": 2934,
+    "active": "true",
+    "__v": 0,
+    "fileId": 236
+  },
+  {
+    "name": "education",
+    "blobName": "1bf47289-b67e-4a64-9b4e-9a5b65cff1da.png",
+    "type": "image/png",
+    "size": 4274,
+    "active": "true",
+    "__v": 0,
+    "fileId": 237
+  },
+  {
+    "name": "fintech",
+    "blobName": "824109f5-071d-4a6a-a60d-c4f9fea244ef.png",
+    "type": "image/png",
+    "size": 2107,
+    "active": "true",
+    "__v": 0,
+    "fileId": 238
+  },
+  {
+    "name": "healthcare",
+    "blobName": "381bdd56-d508-4e6d-bd25-33293cfa1c33.png",
+    "type": "image/png",
+    "size": 3423,
+    "active": "true",
+    "__v": 0,
+    "fileId": 239
+  },
+  {
+    "name": "miscellaneous",
+    "blobName": "1dbf993f-8170-462e-9fd5-2b6a72642038.png",
+    "type": "image/png",
+    "size": 5137,
+    "active": "true",
+    "__v": 0,
+    "fileId": 240
+  },
+  {
+    "name": "nonprofit",
+    "blobName": "db568dc4-c006-478f-b67c-a1782174fcd9.png",
+    "type": "image/png",
+    "size": 2653,
+    "active": "true",
+    "__v": 0,
+    "fileId": 241
+  },
+  {
+    "name": "realstate",
+    "blobName": "8a0093be-dd28-41c1-b9cd-6d5c7d42ccfd.png",
+    "type": "image/png",
+    "size": 6284,
+    "active": "true",
+    "__v": 0,
+    "fileId": 242
+  },
+  {
+    "name": "retail",
+    "blobName": "27787f37-1d76-47aa-b421-97d1cfb26cde.png",
+    "type": "image/png",
+    "size": 2305,
+    "active": "true",
+    "__v": 0,
+    "fileId": 243
+  },
+  {
+    "name": "software",
+    "blobName": "ac91d619-1619-4de1-8fde-67bf3ef846ca.png",
+    "type": "image/png",
+    "size": 3870,
+    "active": "true",
+    "__v": 0,
+    "fileId": 244
+  },
+  {
+    "name": "startup",
+    "blobName": "393ca7b3-2959-4e29-94c3-506f2cb321b5.png",
+    "type": "image/png",
+    "size": 4567,
+    "active": "true",
+    "__v": 0,
+    "fileId": 245
+  },
+  {
+    "name": "telco",
+    "blobName": "41c96602-24d6-4774-8fd7-7d66cbdb8088.png",
+    "type": "image/png",
+    "size": 3305,
+    "active": "true",
+    "__v": 0,
+    "fileId": 246
+  },
+  {
+    "name": "Uk flag",
+    "blobName": "1a7d8738-ea83-44fb-9f0c-057acd7ddb89.png",
+    "type": "image/png",
+    "size": 40452,
+    "active": "true",
+    "__v": 0,
+    "fileId": 247
+  },
+  {
+    "name": "ukk flag",
+    "blobName": "374abb63-f75c-4c28-9fb2-0a02890e519d.png",
+    "type": "image/png",
+    "size": 19019,
+    "active": "true",
+    "__v": 0,
+    "fileId": 248
+  },
+  {
+    "name": "no image",
+    "blobName": "ea8a7db4-4521-4a07-aedf-98596c26c546.png",
+    "type": "image/png",
+    "size": 16178,
+    "active": "true",
+    "__v": 0,
+    "fileId": 249
+  },
+  {
+    "name": "Australia Flag",
+    "blobName": "88403af8-be06-4a24-b160-52ea53f103a4.png",
+    "type": "image/png",
+    "size": 4866,
+    "active": "true",
+    "__v": 0,
+    "fileId": 250
+  },
+  {
+    "name": "Finland Flag",
+    "blobName": "ef2c7a94-e404-478b-b7ce-d458fed67f2e.jpg",
+    "type": "image/jpeg",
+    "size": 42397,
+    "active": "true",
+    "__v": 0,
+    "fileId": 251
+  },
+  {
+    "name": "Malaysia Flag",
+    "blobName": "fc4d2540-c5fb-41c1-acaf-b9f9cef16e28.jpg",
+    "type": "image/jpeg",
+    "size": 52350,
+    "active": "true",
+    "__v": 0,
+    "fileId": 252
+  },
+  {
+    "name": "UK Flag",
+    "blobName": "ede40325-17be-41b2-a1af-8544d9ad8cf5.jpg",
+    "type": "image/jpeg",
+    "size": 27362,
+    "active": "true",
+    "__v": 0,
+    "fileId": 253
+  },
+  {
+    "name": "Custom Software development slider",
+    "blobName": "dd03498f-b289-441a-b36c-f9f59b80ff0d.png",
+    "type": "image/png",
+    "size": 14640,
+    "active": "true",
+    "__v": 0,
+    "fileId": 254
+  },
+  {
+    "name": "Kubernetes Overview",
+    "blobName": "fc2815af-1b14-4e19-9f24-2af1d987ca75.png",
+    "type": "image/png",
+    "size": 114023,
+    "active": "true",
+    "__v": 0,
+    "fileId": 255
+  },
+  {
+    "name": "Kubernetes",
+    "blobName": "8f500f2c-3db1-4228-b7f4-fe4a436b5a24.png",
+    "type": "image/png",
+    "size": 125178,
+    "active": "true",
+    "__v": 0,
+    "fileId": 256
+  },
+  {
+    "name": "Kubernetes Overview Image",
+    "blobName": "36038415-42bd-4993-ad91-3225a86cdc01.png",
+    "type": "image/png",
+    "size": 1432449,
+    "active": "true",
+    "__v": 0,
+    "fileId": 257
+  },
+  {
+    "name": "Kubernetes Overview Image",
+    "blobName": "c250c0d4-cbb1-478c-a210-194f9ee34d82.png",
+    "type": "image/png",
+    "size": 1432449,
+    "active": "true",
+    "__v": 0,
+    "fileId": 258
+  },
+  {
+    "name": "Business Analytics",
+    "blobName": "b6585354-6327-4b6e-a662-2e3ee0c29d8c.png",
+    "type": "image/png",
+    "size": 101869,
+    "active": "true",
+    "__v": 0,
+    "fileId": 259
+  },
+  {
+    "name": "Data Analysis Case study",
+    "blobName": "df16b7a1-a913-4e03-ad0c-f9a271afa9c3.jpg",
+    "type": "image/jpeg",
+    "size": 6022725,
+    "active": "true",
+    "__v": 0,
+    "fileId": 260
+  },
+  {
+    "name": "Data Analysis Case study",
+    "blobName": "8701689a-4015-4758-abcb-3845b939d2e0.jpg",
+    "type": "image/jpeg",
+    "size": 1025606,
+    "active": "true",
+    "__v": 0,
+    "fileId": 261
+  },
+  {
+    "name": "Data Analysis Case Study Image 1",
+    "blobName": "b4625110-4c71-45cb-8a23-31d9da03a4f1.png",
+    "type": "image/png",
+    "size": 274263,
+    "active": "true",
+    "__v": 0,
+    "fileId": 262
+  },
+  {
+    "name": "Data Analysis Case Study Image 2",
+    "blobName": "6417c525-05df-4ae9-84cc-106be085e606.png",
+    "type": "image/png",
+    "size": 79705,
+    "active": "true",
+    "__v": 0,
+    "fileId": 263
+  },
+  {
+    "name": "Data Analysis Case Study Image 3",
+    "blobName": "a11ca85c-5872-4f58-99a5-df39c9e0c7cf.png",
+    "type": "image/png",
+    "size": 67706,
+    "active": "true",
+    "__v": 0,
+    "fileId": 264
+  },
+  {
+    "name": "Data Analysis Case Study Ok",
+    "blobName": "ff670365-7bee-45c5-b308-237fcef45b7f.jpg",
+    "type": "image/jpeg",
+    "size": 32018,
+    "active": "true",
+    "__v": 0,
+    "fileId": 265
+  },
+  {
+    "name": "Data Case Study Mobile",
+    "blobName": "1757bec6-65af-4616-8c50-502afcfb823d.png",
+    "type": "image/png",
+    "size": 126603,
+    "active": "true",
+    "__v": 0,
+    "fileId": 266
+  },
+  {
+    "name": "Flight Booking Cover Image",
+    "blobName": "3a3a6dba-a016-4ca9-844f-eb0ba8e3526a.jpg",
+    "type": "image/jpeg",
+    "size": 75688,
+    "active": "true",
+    "__v": 0,
+    "fileId": 267
+  },
+  {
+    "name": "Flight Booking Image 01",
+    "blobName": "3adc214e-4990-4623-bfab-9201c761dc22.jpg",
+    "type": "image/jpeg",
+    "size": 36429,
+    "active": "true",
+    "__v": 0,
+    "fileId": 268
+  },
+  {
+    "name": "Flight Booking Image 02",
+    "blobName": "22608a90-cd3d-4eab-81a8-65f817d85ba7.jpg",
+    "type": "image/jpeg",
+    "size": 34586,
+    "active": "true",
+    "__v": 0,
+    "fileId": 269
+  },
+  {
+    "name": "Flight Booking Image 03",
+    "blobName": "c055b145-a78a-47bc-9c10-ea3b7ac6f3b8.jpg",
+    "type": "image/jpeg",
+    "size": 31436,
+    "active": "true",
+    "__v": 0,
+    "fileId": 270
+  },
+  {
+    "name": "Flight Booking Image 04",
+    "blobName": "7781faa5-cfa5-4348-a9d1-d8458ccc99bc.jpg",
+    "type": "image/jpeg",
+    "size": 44046,
+    "active": "true",
+    "__v": 0,
+    "fileId": 271
+  },
+  {
+    "name": "Flight Booking Image 05",
+    "blobName": "9bdd5e70-0300-4989-93dc-1b9acb862b1c.jpg",
+    "type": "image/jpeg",
+    "size": 49743,
+    "active": "true",
+    "__v": 0,
+    "fileId": 272
+  },
+  {
+    "name": "Flight Booking Image 06",
+    "blobName": "e1c153ad-edeb-43e2-9bf9-3b6d480c360f.jpg",
+    "type": "image/jpeg",
+    "size": 33057,
+    "active": "true",
+    "__v": 0,
+    "fileId": 273
+  },
+  {
+    "name": "Creative Image",
+    "blobName": "c42ec1d5-0b48-49c4-8054-baf7bc2e9b8c.webp",
+    "type": "image/webp",
+    "size": 154766,
+    "active": "true",
+    "__v": 0,
+    "fileId": 274
+  },
+  {
+    "name": "iquidi Slider",
+    "blobName": "a992bc4e-3c0a-4325-b067-24d0dbb7d20c.png",
+    "type": "image/png",
+    "size": 37145,
+    "active": "true",
+    "__v": 0,
+    "fileId": 275
+  },
+  {
+    "name": "iquidi transperent",
+    "blobName": "f8323d3d-ea94-47a9-9144-4eb7b38263ea.png",
+    "type": "image/png",
+    "size": 44472,
+    "active": "true",
+    "__v": 0,
+    "fileId": 276
+  },
+  {
+    "name": "iquidi PC",
+    "blobName": "8b15a7ee-72bc-4b0d-a27c-0d77a672c60a.png",
+    "type": "image/png",
+    "size": 35104,
+    "active": "true",
+    "__v": 0,
+    "fileId": 277
+  },
+  {
+    "name": "Legal",
+    "blobName": "8aa45502-d2df-40b2-9d38-779b059a4670.webp",
+    "type": "image/webp",
+    "size": 37568,
+    "active": "true",
+    "__v": 0,
+    "fileId": 278
+  },
+  {
+    "name": "Appearal",
+    "blobName": "c9a17b8e-1a9e-46bc-beda-cc97ee3c313e.webp",
+    "type": "image/webp",
+    "size": 104848,
+    "active": "true",
+    "__v": 0,
+    "fileId": 279
+  },
+  {
+    "name": "Construction",
+    "blobName": "7544e758-1264-4370-8b7b-2a9f155669b0.webp",
+    "type": "image/webp",
+    "size": 165880,
+    "active": "true",
+    "__v": 0,
+    "fileId": 280
+  },
+  {
+    "name": "ecommerce",
+    "blobName": "118b1bd0-5b76-4d9d-a5e5-c253eb355e55.webp",
+    "type": "image/webp",
+    "size": 52122,
+    "active": "true",
+    "__v": 0,
+    "fileId": 281
+  },
+  {
+    "name": "IT",
+    "blobName": "70a2e62a-5c54-4d80-8008-64796b913a44.webp",
+    "type": "image/webp",
+    "size": 80658,
+    "active": "true",
+    "__v": 0,
+    "fileId": 282
+  },
+  {
+    "name": "Procurement Management",
+    "blobName": "cb37244e-09e8-4b7e-9e9e-468c9fb7435b.png",
+    "type": "image/png",
+    "size": 238451,
+    "active": "true",
+    "__v": 0,
+    "fileId": 283
+  },
+  {
+    "name": "Sales and Invoice Management",
+    "blobName": "a360c39d-6a4e-4b1e-a3b4-f11339674a8a.png",
+    "type": "image/png",
+    "size": 189098,
+    "active": "true",
+    "__v": 0,
+    "fileId": 284
+  },
+  {
+    "name": "Inventory Management System",
+    "blobName": "c1c2cc30-f5e8-44fb-bcfc-c442fb779888.png",
+    "type": "image/png",
+    "size": 247507,
+    "active": "true",
+    "__v": 0,
+    "fileId": 285
+  },
+  {
+    "name": "Organize Business Partner",
+    "blobName": "0c3122fe-e9ae-416e-8950-d91b75ff5ac6.png",
+    "type": "image/png",
+    "size": 227812,
+    "active": "true",
+    "__v": 0,
+    "fileId": 286
+  },
+  {
+    "name": "Document Management System",
+    "blobName": "73dcb00c-c247-4594-beba-f8cec4923994.png",
+    "type": "image/png",
+    "size": 184563,
+    "active": "true",
+    "__v": 0,
+    "fileId": 287
+  },
+  {
+    "name": "Manufacturing system",
+    "blobName": "da6388d8-2df3-4fe8-8d00-924309a5318f.png",
+    "type": "image/png",
+    "size": 254852,
+    "active": "true",
+    "__v": 0,
+    "fileId": 288
+  },
+  {
+    "name": "Friendly Interface",
+    "blobName": "893dbe9a-2d6a-4c5a-af60-310e1c937251.png",
+    "type": "image/png",
+    "size": 179515,
+    "active": "true",
+    "__v": 0,
+    "fileId": 289
+  },
+  {
+    "name": "Data security",
+    "blobName": "b0605e97-6afc-4d7f-801f-9d5d9ed8ce7a.png",
+    "type": "image/png",
+    "size": 188950,
+    "active": "true",
+    "__v": 0,
+    "fileId": 290
+  },
+  {
+    "name": "Monitor Progress",
+    "blobName": "b8acfab8-cab3-4317-b370-98bc42cfd69b.png",
+    "type": "image/png",
+    "size": 248007,
+    "active": "true",
+    "__v": 0,
+    "fileId": 291
+  },
+  {
+    "name": "Manage Budget",
+    "blobName": "50d37498-3623-4254-b55b-abc89de84d32.png",
+    "type": "image/png",
+    "size": 235682,
+    "active": "true",
+    "__v": 0,
+    "fileId": 292
+  },
+  {
+    "name": "Record Transaction",
+    "blobName": "33dcef32-7ad6-44e0-af5a-8fe4a0908327.png",
+    "type": "image/png",
+    "size": 231358,
+    "active": "true",
+    "__v": 0,
+    "fileId": 293
+  },
+  {
+    "name": "Repeatable Processes",
+    "blobName": "25df4381-2c67-479f-b807-97ac3ef919e2.png",
+    "type": "image/png",
+    "size": 259957,
+    "active": "true",
+    "__v": 0,
+    "fileId": 294
+  },
+  {
+    "name": "Online Shop",
+    "blobName": "fa5e5660-c6c7-4820-9410-aa40e7e491dd.png",
+    "type": "image/png",
+    "size": 187614,
+    "active": "true",
+    "__v": 0,
+    "fileId": 295
+  },
+  {
+    "name": "Shop Type",
+    "blobName": "52c0ae49-1a71-462e-af5d-fb0a515bfd7e.png",
+    "type": "image/png",
+    "size": 240708,
+    "active": "true",
+    "__v": 0,
+    "fileId": 296
+  },
+  {
+    "name": "Products",
+    "blobName": "7d75d180-f84f-4e19-929a-d0b5775d486b.png",
+    "type": "image/png",
+    "size": 225725,
+    "active": "true",
+    "__v": 0,
+    "fileId": 297
+  },
+  {
+    "name": "Shopping Cart",
+    "blobName": "67fa6925-d41b-41ed-8e0a-b93547dd7273.png",
+    "type": "image/png",
+    "size": 173568,
+    "active": "true",
+    "__v": 0,
+    "fileId": 298
+  },
+  {
+    "name": "Store Manegement",
+    "blobName": "fa4b149b-936b-4d1c-b66e-6617069f8181.png",
+    "type": "image/png",
+    "size": 217343,
+    "active": "true",
+    "__v": 0,
+    "fileId": 299
+  },
+  {
+    "name": "Digital Marketing",
+    "blobName": "f4aaa82a-a0d3-4732-9a10-90aa6456028e.png",
+    "type": "image/png",
+    "size": 195446,
+    "active": "true",
+    "__v": 0,
+    "fileId": 300
+  },
+  {
+    "name": "Analytics for stores",
+    "blobName": "8a62631d-c0ef-43a3-beff-692f3c01519c.png",
+    "type": "image/png",
+    "size": 208520,
+    "active": "true",
+    "__v": 0,
+    "fileId": 301
+  },
+  {
+    "name": "Customer Service",
+    "blobName": "3c57c7bc-7f9f-478b-b4d6-f07fe807e6a1.png",
+    "type": "image/png",
+    "size": 174463,
+    "active": "true",
+    "__v": 0,
+    "fileId": 302
+  },
+  {
+    "name": "MERN Tchnology",
+    "blobName": "5d725c54-d96a-4e72-a906-f344ee8faa27.png",
+    "type": "image/png",
+    "size": 18900,
+    "active": "true",
+    "__v": 0,
+    "fileId": 303
+  },
+  {
+    "name": "MERN Tchnology",
+    "blobName": "c95721a2-d93f-4f70-a8ee-c52d986c57a6.png",
+    "type": "image/png",
+    "size": 18900,
+    "active": "true",
+    "__v": 0,
+    "fileId": 304
+  },
+  {
+    "name": "Data Security",
+    "blobName": "2f16693b-ebe4-4c14-8376-708ad0a7c5c5.png",
+    "type": "image/png",
+    "size": 198604,
+    "active": "true",
+    "__v": 0,
+    "fileId": 305
+  },
+  {
+    "name": "Regular Backups",
+    "blobName": "090835db-d9ec-42fa-afdc-c8ba2a1851b4.png",
+    "type": "image/png",
+    "size": 248467,
+    "active": "true",
+    "__v": 0,
+    "fileId": 306
+  },
+  {
+    "name": "Unlimited Bandwidth",
+    "blobName": "b39fa6a5-e88a-49b1-91c7-cead8b9a61c7.png",
+    "type": "image/png",
+    "size": 296709,
+    "active": "true",
+    "__v": 0,
+    "fileId": 307
+  },
+  {
+    "name": "DDoS Protection",
+    "blobName": "4d447ae8-bc41-4b37-95b2-aaea799eb6b4.png",
+    "type": "image/png",
+    "size": 249275,
+    "active": "true",
+    "__v": 0,
+    "fileId": 308
+  },
+  {
+    "name": "No Hosting Required",
+    "blobName": "3285230a-4d29-4f12-b7e8-28e35c9cc93e.png",
+    "type": "image/png",
+    "size": 208537,
+    "active": "true",
+    "__v": 0,
+    "fileId": 309
+  },
+  {
+    "name": "IvCommerce Slider",
+    "blobName": "ef64ee25-a1fa-4752-bede-31c1cdb54477.png",
+    "type": "image/png",
+    "size": 20988,
+    "active": "true",
+    "__v": 0,
+    "fileId": 310
+  },
+  {
+    "name": "Trip Organization",
+    "blobName": "c48fe28f-a868-4326-8b77-9311aa5fd43e.png",
+    "type": "image/png",
+    "size": 290436,
+    "active": "true",
+    "__v": 0,
+    "fileId": 311
+  },
+  {
+    "name": "Real-time flight booking",
+    "blobName": "eff2a35b-7b9b-44ad-a85c-ce915fcbafc0.png",
+    "type": "image/png",
+    "size": 138425,
+    "active": "true",
+    "__v": 0,
+    "fileId": 312
+  },
+  {
+    "name": "Destination discovery",
+    "blobName": "3cddc8f9-92cb-409b-8a11-d26ea3f4a587.png",
+    "type": "image/png",
+    "size": 242925,
+    "active": "true",
+    "__v": 0,
+    "fileId": 313
+  },
+  {
+    "name": "Booking a hotel",
+    "blobName": "0403e7ce-c65c-4cf7-a344-1456aeeceb1b.png",
+    "type": "image/png",
+    "size": 191476,
+    "active": "true",
+    "__v": 0,
+    "fileId": 314
+  },
+  {
+    "name": "Information of visas and travel papers",
+    "blobName": "84573bdd-325b-46c7-86eb-7629ba9caf1f.png",
+    "type": "image/png",
+    "size": 233699,
+    "active": "true",
+    "__v": 0,
+    "fileId": 315
+  },
+  {
+    "name": "Destination Recommendations",
+    "blobName": "3a0ddf37-7e77-484e-b8ed-11281d1ca84d.png",
+    "type": "image/png",
+    "size": 198327,
+    "active": "true",
+    "__v": 0,
+    "fileId": 316
+  },
+  {
+    "name": "Travel guides",
+    "blobName": "fb06dd32-0465-4284-abd9-8f2069dea817.png",
+    "type": "image/png",
+    "size": 112160,
+    "active": "true",
+    "__v": 0,
+    "fileId": 317
+  },
+  {
+    "name": "Travel reviews",
+    "blobName": "8e58ee20-a5e0-44c8-abe7-dcc9f99084eb.png",
+    "type": "image/png",
+    "size": 197981,
+    "active": "true",
+    "__v": 0,
+    "fileId": 318
+  },
+  {
+    "name": "Customer support",
+    "blobName": "fb7270d7-e54c-41f0-bf3c-cbd7597a1f5e.png",
+    "type": "image/png",
+    "size": 239228,
+    "active": "true",
+    "__v": 0,
+    "fileId": 319
+  },
+  {
+    "name": "Flight booking",
+    "blobName": "d55f2998-60c3-4e98-93db-ad259e72ebc2.png",
+    "type": "image/png",
+    "size": 200837,
+    "active": "true",
+    "__v": 0,
+    "fileId": 320
+  },
+  {
+    "name": "Hotel booking",
+    "blobName": "7bbdd49d-2b02-4d42-a332-0701db038dc8.png",
+    "type": "image/png",
+    "size": 284409,
+    "active": "true",
+    "__v": 0,
+    "fileId": 321
+  },
+  {
+    "name": "Tour booking",
+    "blobName": "579d7056-5f45-4a1e-b4b1-ee4b7b80b344.png",
+    "type": "image/png",
+    "size": 312819,
+    "active": "true",
+    "__v": 0,
+    "fileId": 322
+  },
+  {
+    "name": "Visa assistance system",
+    "blobName": "67d278ef-cd87-478b-b745-dc024975c87c.png",
+    "type": "image/png",
+    "size": 233699,
+    "active": "true",
+    "__v": 0,
+    "fileId": 323
+  },
+  {
+    "name": "Ivtravel Slider",
+    "blobName": "accb301b-acbd-4c63-a7f6-9f713e56e007.png",
+    "type": "image/png",
+    "size": 175369,
+    "active": "true",
+    "__v": 0,
+    "fileId": 324
+  },
+  {
+    "name": "Ivtravel Slider",
+    "blobName": "e349bde0-15df-40cd-a9db-504d533ca8ef.png",
+    "type": "image/png",
+    "size": 131104,
+    "active": "true",
+    "__v": 0,
+    "fileId": 325
+  },
+  {
+    "name": "iquidi_test",
+    "blobName": "407d1d3f-8b0b-4ab9-b4df-251901eaf3cf.png",
+    "type": "image/png",
+    "size": 326044,
+    "active": "true",
+    "__v": 0,
+    "fileId": 326
+  },
+  {
+    "name": "iquidi_test",
+    "blobName": "db393576-18d6-45f9-9f20-11f01c977e46.png",
+    "type": "image/png",
+    "size": 416513,
+    "active": "true",
+    "__v": 0,
+    "fileId": 327
+  },
+  {
+    "name": "iquidi_slider_ok",
+    "blobName": "ad5894b1-732d-4ed3-a805-e727e856cd8f.png",
+    "type": "image/png",
+    "size": 445211,
+    "active": "true",
+    "__v": 0,
+    "fileId": 328
+  },
+  {
+    "name": "iv_Slider 1",
+    "blobName": "564854d0-42f1-4ab2-b1f4-1fde82122de3.png",
+    "type": "image/png",
+    "size": 377875,
+    "active": "true",
+    "__v": 0,
+    "fileId": 329
+  },
+  {
+    "name": "iv slider 02",
+    "blobName": "6d4eb92c-2ef9-476c-abbd-d63be8c7c184.png",
+    "type": "image/png",
+    "size": 340456,
+    "active": "true",
+    "__v": 0,
+    "fileId": 330
+  },
+  {
+    "name": "iv slider 03",
+    "blobName": "ce30f4c7-f4b0-480c-ad24-e2ed08134d59.png",
+    "type": "image/png",
+    "size": 361013,
+    "active": "true",
+    "__v": 0,
+    "fileId": 331
+  },
+  {
+    "name": "Tour Booking Cover",
+    "blobName": "6f41eaa8-72e9-4c70-b0d2-3d8effdd8743.png",
+    "type": "image/png",
+    "size": 425292,
+    "active": "true",
+    "__v": 0,
+    "fileId": 332
+  },
+  {
+    "name": "Tour Booking 1",
+    "blobName": "ba4ab0ea-9c72-4d0a-8488-51a6321af6d0.PNG",
+    "type": "image/png",
+    "size": 137136,
+    "active": "true",
+    "__v": 0,
+    "fileId": 333
+  },
+  {
+    "name": "Tour Booking 2",
+    "blobName": "45bbcb39-63b5-4049-9b87-72bb5233b051.PNG",
+    "type": "image/png",
+    "size": 74830,
+    "active": "true",
+    "__v": 0,
+    "fileId": 334
+  },
+  {
+    "name": "Tour Booking 3",
+    "blobName": "961e4d30-9659-4378-afdb-2a735579b0ac.PNG",
+    "type": "image/png",
+    "size": 9887,
+    "active": "true",
+    "__v": 0,
+    "fileId": 335
+  },
+  {
+    "name": "Tour Booking 4",
+    "blobName": "305b8866-9555-4c07-8f2e-f995cce2eda9.PNG",
+    "type": "image/png",
+    "size": 40745,
+    "active": "true",
+    "__v": 0,
+    "fileId": 336
+  },
+  {
+    "name": "Cloud Engineering",
+    "blobName": "249d9b72-ff91-4af9-9750-c63724938a18.webp",
+    "type": "image/webp",
+    "size": 824386,
+    "active": "true",
+    "__v": 0,
+    "fileId": 337
+  },
+  {
+    "name": "Web Application Development",
+    "blobName": "8a7b9d7b-646c-4bf3-9592-c7ccaf8a5ed7.webp",
+    "type": "image/webp",
+    "size": 1247608,
+    "active": "true",
+    "__v": 0,
+    "fileId": 338
+  },
+  {
+    "name": "Web Application Development Life Cycle",
+    "blobName": "5809e820-a598-4e1b-a702-87f7def5e592.webp",
+    "type": "image/webp",
+    "size": 96766,
+    "active": "true",
+    "__v": 0,
+    "fileId": 339
+  },
+  {
+    "name": "news",
+    "blobName": "062d7a3e-7968-43d0-b4f0-08df2be086df.jpg",
+    "type": "image/jpeg",
+    "size": 36777,
+    "active": "true",
+    "__v": 0,
+    "fileId": 340
+  },
+  {
+    "name": "Impmlevista_holcim",
+    "blobName": "d800add7-cc8b-4bb0-be0a-c4b551c7cc0d.png",
+    "type": "image/png",
+    "size": 723879,
+    "active": "true",
+    "__v": 0,
+    "fileId": 341
+  },
+  {
+    "name": "Mukesh_gupta",
+    "blobName": "f5b68b5a-988f-401a-a4a0-1285b2a8e097.png",
+    "type": "image/png",
+    "size": 559912,
+    "active": "true",
+    "__v": 0,
+    "fileId": 342
+  },
+  {
+    "name": "Mukesh_and_team",
+    "blobName": "93e3766d-a820-4c87-b7ce-7b7d4cd9d9ce.png",
+    "type": "image/png",
+    "size": 535060,
+    "active": "true",
+    "__v": 0,
+    "fileId": 343
+  },
+  {
+    "name": "Mukesh_Robi",
+    "blobName": "eed9163a-f3b6-4587-ab0d-36698cab6d5a.webp",
+    "type": "image/webp",
+    "size": 38234,
+    "active": "true",
+    "__v": 0,
+    "fileId": 344
+  },
+  {
+    "name": "holcim with all",
+    "blobName": "34e9f508-ee94-43e8-bfdb-28e0ace50078.webp",
+    "type": "image/webp",
+    "size": 6774192,
+    "active": "true",
+    "__v": 0,
+    "fileId": 345
+  },
+  {
+    "name": "BASIS Award in 2020",
+    "blobName": "2219f2b7-da49-41ee-a6de-a2e9365066e6.webp",
+    "type": "image/webp",
+    "size": 75042,
+    "active": "true",
+    "__v": 0,
+    "fileId": 346
+  },
+  {
+    "name": "Nasa",
+    "blobName": "7c769d72-bb09-4c82-aebc-24ef42521062.webp",
+    "type": "image/webp",
+    "size": 65264,
+    "active": "true",
+    "__v": 0,
+    "fileId": 347
+  },
+  {
+    "name": "Basis Outsourcings",
+    "blobName": "a8bebced-e49b-433b-9254-058ddf7db4fe.webp",
+    "type": "image/webp",
+    "size": 37070,
+    "active": "true",
+    "__v": 0,
+    "fileId": 348
+  },
+  {
+    "name": "Basis outsourcing scrren",
+    "blobName": "88c0304e-5eac-4f91-9d06-ab3ca8ac9d53.webp",
+    "type": "image/webp",
+    "size": 60646,
+    "active": "true",
+    "__v": 0,
+    "fileId": 349
+  },
+  {
+    "name": "Basis_judge",
+    "blobName": "056ac998-aae6-4840-a4ef-2baf520b6621.webp",
+    "type": "image/webp",
+    "size": 46730,
+    "active": "true",
+    "__v": 0,
+    "fileId": 350
+  },
+  {
+    "name": "Basis_award_2015",
+    "blobName": "2921c7fd-d1b5-46d4-b1b4-c632a2dfb04f.webp",
+    "type": "image/webp",
+    "size": 57080,
+    "active": "true",
+    "__v": 0,
+    "fileId": 351
+  },
+  {
+    "name": "Top 10 Startup",
+    "blobName": "afb74d13-a002-487b-8b99-4959e0c0fad6.webp",
+    "type": "image/webp",
+    "size": 155504,
+    "active": "true",
+    "__v": 0,
+    "fileId": 352
+  },
+  {
+    "name": "Top 10 Startup IT Incubator",
+    "blobName": "e1e39f05-1e06-4f77-a40b-77e21b1f5a25.webp",
+    "type": "image/webp",
+    "size": 77834,
+    "active": "true",
+    "__v": 0,
+    "fileId": 353
+  },
+  {
+    "name": "complement by Bangladesh University",
+    "blobName": "7efda877-552b-4c23-a33f-ce825b715271.webp",
+    "type": "image/webp",
+    "size": 114050,
+    "active": "true",
+    "__v": 0,
+    "fileId": 354
+  },
+  {
+    "name": "complement Bangladesh University",
+    "blobName": "f71ce2c0-6213-42a7-97d5-93adaf6ad991.webp",
+    "type": "image/webp",
+    "size": 397802,
+    "active": "true",
+    "__v": 0,
+    "fileId": 355
+  },
+  {
+    "name": "Connecting Startup",
+    "blobName": "be0331cf-a42e-494d-963d-978f00551eef.webp",
+    "type": "image/webp",
+    "size": 835184,
+    "active": "true",
+    "__v": 0,
+    "fileId": 356
+  },
+  {
+    "name": "Connecting Startup Germany",
+    "blobName": "b7dab4f9-d354-4d60-99ae-9d07dccf99f5.webp",
+    "type": "image/webp",
+    "size": 47018,
+    "active": "true",
+    "__v": 0,
+    "fileId": 357
+  },
+  {
+    "name": "Mobility Cover",
+    "blobName": "848f6e4a-0fb9-4cf8-a0bf-7a12c1a6cf6e.webp",
+    "type": "image/webp",
+    "size": 65422,
+    "active": "true",
+    "__v": 0,
+    "fileId": 358
+  },
+  {
+    "name": "Mobility Picture",
+    "blobName": "31cf545c-9a24-4adf-a57b-702a17292b4b.webp",
+    "type": "image/webp",
+    "size": 124734,
+    "active": "true",
+    "__v": 0,
+    "fileId": 359
+  },
+  {
+    "name": "Mobility Image",
+    "blobName": "2b831f13-7fd2-4269-a8ee-934a2e600511.webp",
+    "type": "image/webp",
+    "size": 56804,
+    "active": "true",
+    "__v": 0,
+    "fileId": 360
+  },
+  {
+    "name": "Mobility as a Service (MaaS)",
+    "blobName": "098e2b5b-5688-4259-96cc-a6304c33d26b.webp",
+    "type": "image/webp",
+    "size": 230366,
+    "active": "true",
+    "__v": 0,
+    "fileId": 361
+  },
+  {
+    "name": "News",
+    "blobName": "b138e177-77bf-4244-85eb-17f5972c856b.png",
+    "type": "image/png",
+    "size": 43112,
+    "active": "true",
+    "__v": 0,
+    "fileId": 362
+  },
+  {
+    "name": "management-demo-img",
+    "blobName": "208cd00f-be0e-4eee-a1c4-a2222ec28089.jpg",
+    "type": "image/jpeg",
+    "size": 2531071,
+    "active": "true",
+    "__v": 0,
+    "fileId": 363
+  },
+  {
+    "name": "cto",
+    "blobName": "3b14f4d0-bc88-4512-ad2b-b79593911f6a.jpg",
+    "type": "image/jpeg",
+    "size": 2630147,
+    "active": "true",
+    "__v": 0,
+    "fileId": 364
+  },
+  {
+    "name": "maagement photo",
+    "blobName": "33e0383d-0e0c-4827-9a9c-427b5e82c918.webp",
+    "type": "image/webp",
+    "size": 15162,
+    "active": "true",
+    "__v": 0,
+    "fileId": 365
+  },
+  {
+    "name": "management image",
+    "blobName": "7d393590-87a5-4375-b11f-5c61d74d0d5c.jpg",
+    "type": "image/jpeg",
+    "size": 29356,
+    "active": "true",
+    "__v": 0,
+    "fileId": 366
+  },
+  {
+    "name": "car shop management cover",
+    "blobName": "44833180-3855-407a-81df-464d26b957fe.jpg",
+    "type": "image/jpeg",
+    "size": 272911,
+    "active": "true",
+    "__v": 0,
+    "fileId": 367
+  },
+  {
+    "name": "car shop managent Dashboard",
+    "blobName": "c6e470f5-db04-4412-88c5-ba15a09b371c.jpg",
+    "type": "image/jpeg",
+    "size": 86013,
+    "active": "true",
+    "__v": 0,
+    "fileId": 368
+  },
+  {
+    "name": "carshop procurement",
+    "blobName": "074f9d91-9f8d-4f8f-95c8-da020b503f94.jpg",
+    "type": "image/jpeg",
+    "size": 80925,
+    "active": "true",
+    "__v": 0,
+    "fileId": 369
+  },
+  {
+    "name": "carshop management quick bill",
+    "blobName": "136c00fb-b1ad-4506-9969-aae793876893.jpg",
+    "type": "image/jpeg",
+    "size": 71959,
+    "active": "true",
+    "__v": 0,
+    "fileId": 370
+  },
+  {
+    "name": "carshop management inventory",
+    "blobName": "12c95d68-0048-46ea-b3f9-e5f3b3b436cc.jpg",
+    "type": "image/jpeg",
+    "size": 70140,
+    "active": "true",
+    "__v": 0,
+    "fileId": 371
+  },
+  {
+    "name": "carshop management storage item",
+    "blobName": "9464a1f7-9bc6-44c0-85cd-b72397ea9dde.jpg",
+    "type": "image/jpeg",
+    "size": 58611,
+    "active": "true",
+    "__v": 0,
+    "fileId": 372
+  },
+  {
+    "name": "carshop management consumption list",
+    "blobName": "873c953a-46c1-4cbe-9cdb-83ef2074d560.jpg",
+    "type": "image/jpeg",
+    "size": 58188,
+    "active": "true",
+    "__v": 0,
+    "fileId": 373
+  },
+  {
+    "name": "carshop management invoice",
+    "blobName": "21290fc3-eadc-482f-ba38-3b62115a3094.jpg",
+    "type": "image/jpeg",
+    "size": 86522,
+    "active": "true",
+    "__v": 0,
+    "fileId": 374
+  },
+  {
+    "name": "carshop budget",
+    "blobName": "fb504480-fa53-42f2-8fd6-ae49145bd90b.jpg",
+    "type": "image/jpeg",
+    "size": 92293,
+    "active": "true",
+    "__v": 0,
+    "fileId": 375
+  },
+  {
+    "name": "carshop expense",
+    "blobName": "a0b97f3a-a20b-4882-9197-894786308a5a.jpg",
+    "type": "image/jpeg",
+    "size": 48614,
+    "active": "true",
+    "__v": 0,
+    "fileId": 376
+  },
+  {
+    "name": "carshop management report",
+    "blobName": "f0ff6830-57c5-44de-8a0b-168428475ec2.jpg",
+    "type": "image/jpeg",
+    "size": 86292,
+    "active": "true",
+    "__v": 0,
+    "fileId": 377
+  },
+  {
+    "name": "Microsoft Dynamic 365 Business Center",
+    "blobName": "f9cd7be1-a2bd-4fb7-8a30-1ce95e072b0e.jpg",
+    "type": "image/jpeg",
+    "size": 127792,
+    "active": "true",
+    "__v": 0,
+    "fileId": 378
+  },
+  {
+    "name": "Microsoft Dynamic 365 Business Cent",
+    "blobName": "876b3000-1368-4fc7-a77b-1405cb90ba28.jpg",
+    "type": "image/jpeg",
+    "size": 79514,
+    "active": "true",
+    "__v": 0,
+    "fileId": 379
+  },
+  {
+    "name": "Microsoft Dynamic 365 Business Cent",
+    "blobName": "dfd9d5c7-49f1-4a61-9cde-626cbd6437c7.jpg",
+    "type": "image/jpeg",
+    "size": 52502,
+    "active": "true",
+    "__v": 0,
+    "fileId": 380
+  },
+  {
+    "name": "Accounting Software for IT Comapny cover",
+    "blobName": "557613a4-7b1f-46e5-9658-15d801e62262.jpg",
+    "type": "image/jpeg",
+    "size": 261096,
+    "active": "true",
+    "__v": 0,
+    "fileId": 381
+  },
+  {
+    "name": "Accounting software for an IT company diagram1",
+    "blobName": "963f7c4e-828e-42d2-bdbe-8f071d982f48.jpg",
+    "type": "image/jpeg",
+    "size": 34150,
+    "active": "true",
+    "__v": 0,
+    "fileId": 382
+  },
+  {
+    "name": "Accounting software for an IT company diagram2",
+    "blobName": "97e9c6dd-1680-4e3d-870f-0c0c9b2df7df.jpg",
+    "type": "image/jpeg",
+    "size": 51176,
+    "active": "true",
+    "__v": 0,
+    "fileId": 383
+  },
+  {
+    "name": "IT company bill overview",
+    "blobName": "9953fafd-6f36-4e7c-9544-d81f99a5c992.jpg",
+    "type": "image/jpeg",
+    "size": 80779,
+    "active": "true",
+    "__v": 0,
+    "fileId": 384
+  },
+  {
+    "name": "quick bill for IT company",
+    "blobName": "a8800a1c-6f21-4507-85f0-c4c67494c4b8.jpg",
+    "type": "image/jpeg",
+    "size": 116692,
+    "active": "true",
+    "__v": 0,
+    "fileId": 385
+  },
+  {
+    "name": "Invoice for IT company",
+    "blobName": "853328ef-a7b5-40d6-8568-233df24ac10a.jpg",
+    "type": "image/jpeg",
+    "size": 74395,
+    "active": "true",
+    "__v": 0,
+    "fileId": 386
+  },
+  {
+    "name": "budget for it company",
+    "blobName": "dcb081d3-f953-442f-9f01-19fbd295f586.jpg",
+    "type": "image/jpeg",
+    "size": 91385,
+    "active": "true",
+    "__v": 0,
+    "fileId": 387
+  },
+  {
+    "name": "expense compare for it company",
+    "blobName": "a061adeb-c581-450c-bda7-a8f98ebe2d9d.jpg",
+    "type": "image/jpeg",
+    "size": 48614,
+    "active": "true",
+    "__v": 0,
+    "fileId": 388
+  },
+  {
+    "name": "storage item for it company",
+    "blobName": "105fc63b-bdf8-4ce5-b8eb-ffe1cf8e44ae.jpg",
+    "type": "image/jpeg",
+    "size": 36396,
+    "active": "true",
+    "__v": 0,
+    "fileId": 389
+  },
+  {
+    "name": "consumption for it company",
+    "blobName": "10f06bc6-86b3-479b-8d96-16dd7e8d3e9f.jpg",
+    "type": "image/jpeg",
+    "size": 66829,
+    "active": "true",
+    "__v": 0,
+    "fileId": 390
+  },
+  {
+    "name": "Financial dashboard of IT Company",
+    "blobName": "68edd152-42ed-48fe-9be2-79d2374ae518.jpg",
+    "type": "image/jpeg",
+    "size": 110068,
+    "active": "true",
+    "__v": 0,
+    "fileId": 391
+  },
+  {
+    "name": "Accounting Software for Furniture Manufacturing cover",
+    "blobName": "4594f228-f1e2-4140-b4bb-ba33c8927cc9.jpg",
+    "type": "image/jpeg",
+    "size": 265834,
+    "active": "true",
+    "__v": 0,
+    "fileId": 392
+  },
+  {
+    "name": "Chair ",
+    "blobName": "4a0d30aa-57ea-4def-bbdd-762931a52f48.jpg",
+    "type": "image/jpeg",
+    "size": 59538,
+    "active": "true",
+    "__v": 0,
+    "fileId": 393
+  },
+  {
+    "name": "raw material for furniture shop",
+    "blobName": "3e9a152c-7f6a-45cc-b174-7f8d5f5c7c76.jpg",
+    "type": "image/jpeg",
+    "size": 23487,
+    "active": "true",
+    "__v": 0,
+    "fileId": 394
+  },
+  {
+    "name": "glue scrap for furniture manufacture shop",
+    "blobName": "0222ced1-84e0-4935-b878-b5d226c36207.jpg",
+    "type": "image/jpeg",
+    "size": 89035,
+    "active": "true",
+    "__v": 0,
+    "fileId": 395
+  },
+  {
+    "name": "add raw material",
+    "blobName": "f2139d29-f107-4ad4-956b-0fdf2bb20a23.jpg",
+    "type": "image/jpeg",
+    "size": 49310,
+    "active": "true",
+    "__v": 0,
+    "fileId": 396
+  },
+  {
+    "name": "step2 of furniture manufacture",
+    "blobName": "9fd2785e-fec8-4aa0-8f77-65c329acebbe.jpg",
+    "type": "image/jpeg",
+    "size": 23860,
+    "active": "true",
+    "__v": 0,
+    "fileId": 397
+  },
+  {
+    "name": "step3 for furniture manufacture shop",
+    "blobName": "a1720684-2983-4a5d-af27-18a18b57f234.jpg",
+    "type": "image/jpeg",
+    "size": 25482,
+    "active": "true",
+    "__v": 0,
+    "fileId": 398
+  },
+  {
+    "name": "step4 for furniture manufature shop",
+    "blobName": "678ce931-940b-48c0-b569-04b12a0ab74f.jpg",
+    "type": "image/jpeg",
+    "size": 26365,
+    "active": "true",
+    "__v": 0,
+    "fileId": 399
+  },
+  {
+    "name": "step5 for furniture manufature shop",
+    "blobName": "fcc9edb6-94c3-40d5-b4d7-e15cc7773b88.jpg",
+    "type": "image/jpeg",
+    "size": 28997,
+    "active": "true",
+    "__v": 0,
+    "fileId": 400
+  },
+  {
+    "name": "step6 for furniture manufature shop",
+    "blobName": "2e945b1f-c1f1-413d-9504-9bc00afde2ae.jpg",
+    "type": "image/jpeg",
+    "size": 30185,
+    "active": "true",
+    "__v": 0,
+    "fileId": 401
+  },
+  {
+    "name": "finish product for furniture manufature shop",
+    "blobName": "68c9dce7-02f6-4000-899d-326f1ba1e85c.jpg",
+    "type": "image/jpeg",
+    "size": 42797,
+    "active": "true",
+    "__v": 0,
+    "fileId": 402
+  },
+  {
+    "name": "formula for furniture manufacture",
+    "blobName": "d01181de-8791-47e5-82eb-5d74fa812b32.jpg",
+    "type": "image/jpeg",
+    "size": 45007,
+    "active": "true",
+    "__v": 0,
+    "fileId": 403
+  },
+  {
+    "name": "choosing formula for furniture manufacture shop",
+    "blobName": "6f9d0645-58e2-45f0-83c2-f9bde343e7fb.jpg",
+    "type": "image/jpeg",
+    "size": 55856,
+    "active": "true",
+    "__v": 0,
+    "fileId": 404
+  },
+  {
+    "name": "Inventory for furniture manufacture shop",
+    "blobName": "c5dd0da6-7e37-4164-9db2-063f9032c599.jpg",
+    "type": "image/jpeg",
+    "size": 39359,
+    "active": "true",
+    "__v": 0,
+    "fileId": 405
+  },
+  {
+    "name": "Inventory overview for furniture manufacture shop",
+    "blobName": "b864b406-8e09-4cfd-9fdf-93540ce9bb1e.jpg",
+    "type": "image/jpeg",
+    "size": 47496,
+    "active": "true",
+    "__v": 0,
+    "fileId": 406
+  },
+  {
+    "name": "Invoice for furniture manufacture shop",
+    "blobName": "6f75724a-8480-4d57-806a-55ae6d4467cb.jpg",
+    "type": "image/jpeg",
+    "size": 74118,
+    "active": "true",
+    "__v": 0,
+    "fileId": 407
+  },
+  {
+    "name": "Sale for furniture manufacture shop",
+    "blobName": "eaa6e2f2-16a2-42cf-b302-499d4ef54ce3.jpg",
+    "type": "image/jpeg",
+    "size": 71925,
+    "active": "true",
+    "__v": 0,
+    "fileId": 408
+  },
+  {
+    "name": "quickbill for furniture manufacture shop",
+    "blobName": "12a9d87e-16ef-41fc-ac80-5b2593ac79ab.jpg",
+    "type": "image/jpeg",
+    "size": 116791,
+    "active": "true",
+    "__v": 0,
+    "fileId": 409
+  },
+  {
+    "name": "Dashboard for furniture manufactur e company",
+    "blobName": "45cb69d9-abcd-4d5c-89ff-40c284ed69ad.jpg",
+    "type": "image/jpeg",
+    "size": 110363,
+    "active": "true",
+    "__v": 0,
+    "fileId": 410
+  },
+  {
+    "name": "Kim Liljeborg",
+    "blobName": "a0e6121b-4287-4a3d-93be-97f1ce1dd9b7.jpg",
+    "type": "image/jpeg",
+    "size": 3070,
+    "active": "true",
+    "__v": 0,
+    "fileId": 411
+  },
+  {
+    "name": "Rabiul Islam",
+    "blobName": "849eed53-bba6-4221-8a0f-0a163f89e789.jpg",
+    "type": "image/jpeg",
+    "size": 225234,
+    "active": "true",
+    "__v": 0,
+    "fileId": 412
+  },
+  {
+    "name": "Creative work cover",
+    "blobName": "c01429cd-7d3b-4df5-8d59-aba2bdd1b2ca.jpeg",
+    "type": "image/jpeg",
+    "size": 329997,
+    "active": "true",
+    "__v": 0,
+    "fileId": 413
+  },
+  {
+    "name": "creative work bill",
+    "blobName": "4598fe36-0356-4882-b3f7-65d7ddfabc5d.jpg",
+    "type": "image/jpeg",
+    "size": 70079,
+    "active": "true",
+    "__v": 0,
+    "fileId": 414
+  },
+  {
+    "name": "creative work consumption",
+    "blobName": "c1088a4b-55f1-4b16-bc19-5bed77a67f9f.jpg",
+    "type": "image/jpeg",
+    "size": 63259,
+    "active": "true",
+    "__v": 0,
+    "fileId": 415
+  },
+  {
+    "name": "creative work invoice",
+    "blobName": "c733908c-24a9-416d-b551-63447cfa519a.jpg",
+    "type": "image/jpeg",
+    "size": 68424,
+    "active": "true",
+    "__v": 0,
+    "fileId": 416
+  },
+  {
+    "name": "creative work making",
+    "blobName": "490bfeb9-8618-42c5-a793-d9c755c0f11e.jpg",
+    "type": "image/jpeg",
+    "size": 256645,
+    "active": "true",
+    "__v": 0,
+    "fileId": 417
+  },
+  {
+    "name": "creative work quickbill",
+    "blobName": "aebf7325-5fdd-45e9-b2f1-77e30a55593d.jpg",
+    "type": "image/jpeg",
+    "size": 65625,
+    "active": "true",
+    "__v": 0,
+    "fileId": 418
+  },
+  {
+    "name": "creative work storage item",
+    "blobName": "1ec30d00-2c2f-4476-a013-07ce5be19326.jpg",
+    "type": "image/jpeg",
+    "size": 37189,
+    "active": "true",
+    "__v": 0,
+    "fileId": 419
+  },
+  {
+    "name": "creative work business type",
+    "blobName": "2c5970c8-0945-474b-81d7-87ca370f8ebc.jpg",
+    "type": "image/jpeg",
+    "size": 61472,
+    "active": "true",
+    "__v": 0,
+    "fileId": 420
+  },
+  {
+    "name": "creative work cover2",
+    "blobName": "1cfb91a1-6c70-4ba2-9120-77fbdb10e850.jpeg",
+    "type": "image/jpeg",
+    "size": 164810,
+    "active": "true",
+    "__v": 0,
+    "fileId": 421
+  },
+  {
+    "name": "creative work budget",
+    "blobName": "df42d5f4-a110-4f1e-9cc1-05ba80ca1fad.jpg",
+    "type": "image/jpeg",
+    "size": 91516,
+    "active": "true",
+    "__v": 0,
+    "fileId": 422
+  },
+  {
+    "name": "creative work budget",
+    "blobName": "4d4eb044-c630-4261-a7e2-af12a953496c.jpg",
+    "type": "image/jpeg",
+    "size": 91516,
+    "active": "true",
+    "__v": 0,
+    "fileId": 423
+  },
+  {
+    "name": "creative work budget comparee",
+    "blobName": "fd9c7c5a-f416-4892-8be3-2b808c571fc9.jpg",
+    "type": "image/jpeg",
+    "size": 55126,
+    "active": "true",
+    "__v": 0,
+    "fileId": 424
+  },
+  {
+    "name": "creative work report",
+    "blobName": "3b046b06-297f-4e25-bc15-fce7a815fa12.jpg",
+    "type": "image/jpeg",
+    "size": 86100,
+    "active": "true",
+    "__v": 0,
+    "fileId": 425
+  },
+  {
+    "name": "Best Software Company",
+    "blobName": "45f2b689-0ef3-40bd-81e0-db70a8d023e5.jpg",
+    "type": "image/jpeg",
+    "size": 128848,
+    "active": "true",
+    "__v": 0,
+    "fileId": 426
+  },
+  {
+    "name": "Best software development company",
+    "blobName": "1205562e-d1b3-48d4-9564-5dde2b0c573d.jpg",
+    "type": "image/jpeg",
+    "size": 108697,
+    "active": "true",
+    "__v": 0,
+    "fileId": 427
+  },
+  {
+    "name": "Software development",
+    "blobName": "7252f02a-e850-4d7e-844b-76bd5fa80d55.jpg",
+    "type": "image/jpeg",
+    "size": 121264,
+    "active": "true",
+    "__v": 0,
+    "fileId": 428
+  },
+  {
+    "name": "QA Engineer Lob",
+    "blobName": "f98dcbaf-6913-4361-af17-373dd4a33363.png",
+    "type": "image/png",
+    "size": 251588,
+    "active": "true",
+    "__v": 0,
+    "fileId": 429
+  },
+  {
+    "name": "SEO service",
+    "blobName": "7173bec6-5657-43be-b4fe-66e6cf6bb39b.webp",
+    "type": "image/webp",
+    "size": 1484748,
+    "active": "true",
+    "__v": 0,
+    "fileId": 430
+  },
+  {
+    "name": "Lead generation",
+    "blobName": "ddf48854-4e49-48d7-81b1-3217f5dc229a.webp",
+    "type": "image/webp",
+    "size": 871972,
+    "active": "true",
+    "__v": 0,
+    "fileId": 431
+  },
+  {
+    "name": "Funnel Marketing",
+    "blobName": "2991ea77-006b-49cf-811b-7c50fcec66d5.webp",
+    "type": "image/webp",
+    "size": 926992,
+    "active": "true",
+    "__v": 0,
+    "fileId": 432
+  },
+  {
+    "name": "Google/Facebook Ads Service",
+    "blobName": "856a53fa-b026-444e-9e46-213e04ac55b1.webp",
+    "type": "image/webp",
+    "size": 792788,
+    "active": "true",
+    "__v": 0,
+    "fileId": 433
+  },
+  {
+    "name": "Email Marketing",
+    "blobName": "33ae5803-fd74-4125-aed7-929a9ed0fdb8.webp",
+    "type": "image/webp",
+    "size": 160832,
+    "active": "true",
+    "__v": 0,
+    "fileId": 434
+  },
+  {
+    "name": "Wrb Analytics",
+    "blobName": "26ad055a-85a9-4feb-9f1a-1cc79f908102.webp",
+    "type": "image/webp",
+    "size": 149280,
+    "active": "true",
+    "__v": 0,
+    "fileId": 435
+  },
+  {
+    "name": "Carshop management system Cover",
+    "blobName": "e84f9e57-e693-421f-9288-0cc341d13be2.webp",
+    "type": "image/webp",
+    "size": 1621964,
+    "active": "true",
+    "__v": 0,
+    "fileId": 436
+  },
+  {
+    "name": "Car Shop management Software",
+    "blobName": "a02029a4-8ce9-46fd-9c9b-73e1255bdca5.webp",
+    "type": "image/webp",
+    "size": 2413852,
+    "active": "true",
+    "__v": 0,
+    "fileId": 437
+  },
+  {
+    "name": "E-commerce inside cover",
+    "blobName": "97d66b41-0688-4fa1-96d6-952ca5ce199a.png",
+    "type": "image/png",
+    "size": 624467,
+    "active": "true",
+    "__v": 0,
+    "fileId": 438
+  },
+  {
+    "name": "E-commerce outside cover",
+    "blobName": "7cf43c85-9f5e-4d56-9e87-ea6fdfe0d6dd.png",
+    "type": "image/png",
+    "size": 1659578,
+    "active": "true",
+    "__v": 0,
+    "fileId": 439
+  },
+  {
+    "name": "E-commerce bill",
+    "blobName": "99dfae28-9e3d-4910-a599-6ede0e27894c.jpg",
+    "type": "image/jpeg",
+    "size": 69853,
+    "active": "true",
+    "__v": 0,
+    "fileId": 440
+  },
+  {
+    "name": "E-commerce budget",
+    "blobName": "25d9e000-0665-4450-9bff-bb53e60c15b1.jpg",
+    "type": "image/jpeg",
+    "size": 91307,
+    "active": "true",
+    "__v": 0,
+    "fileId": 441
+  },
+  {
+    "name": "E-commerce compare expense and budget",
+    "blobName": "519eab95-428f-4283-8162-1759a9c315d9.jpg",
+    "type": "image/jpeg",
+    "size": 54958,
+    "active": "true",
+    "__v": 0,
+    "fileId": 442
+  },
+  {
+    "name": "E-commerce consumption",
+    "blobName": "3df1eff8-7e87-4a72-bcbe-0c1983c38384.jpg",
+    "type": "image/jpeg",
+    "size": 57546,
+    "active": "true",
+    "__v": 0,
+    "fileId": 443
+  },
+  {
+    "name": "E-commerce dashboard",
+    "blobName": "db86aa5d-c1d7-4629-aad5-459fc39c174d.jpg",
+    "type": "image/jpeg",
+    "size": 79332,
+    "active": "true",
+    "__v": 0,
+    "fileId": 444
+  },
+  {
+    "name": "E-commerce invoice",
+    "blobName": "35ca8bd2-f2e0-4e91-a038-c687b2723335.jpg",
+    "type": "image/jpeg",
+    "size": 68125,
+    "active": "true",
+    "__v": 0,
+    "fileId": 445
+  },
+  {
+    "name": "E-commerce profit and loss",
+    "blobName": "357f3575-8452-4909-ae35-77d2364dc6c0.jpg",
+    "type": "image/jpeg",
+    "size": 86068,
+    "active": "true",
+    "__v": 0,
+    "fileId": 446
+  },
+  {
+    "name": "E-commerce quick bill",
+    "blobName": "19316327-f9b1-4e4d-98a6-c67c4debbdf6.jpg",
+    "type": "image/jpeg",
+    "size": 65578,
+    "active": "true",
+    "__v": 0,
+    "fileId": 447
+  },
+  {
+    "name": "E-commerce storage item",
+    "blobName": "d5e19a8a-3944-48d5-b893-61a05d07cc70.jpg",
+    "type": "image/jpeg",
+    "size": 36321,
+    "active": "true",
+    "__v": 0,
+    "fileId": 448
+  },
+  {
+    "name": "Law firm outside cover",
+    "blobName": "476d4dc8-99e9-48fa-a237-75843f486611.jpg",
+    "type": "image/jpeg",
+    "size": 164658,
+    "active": "true",
+    "__v": 0,
+    "fileId": 449
+  },
+  {
+    "name": "Law Firm Account transaction",
+    "blobName": "4ed71ced-2721-4e70-bbeb-c51f485cd1b3.jpg",
+    "type": "image/jpeg",
+    "size": 67787,
+    "active": "true",
+    "__v": 0,
+    "fileId": 450
+  },
+  {
+    "name": "Apparel industry outside cover",
+    "blobName": "af5321cd-a83c-4527-9418-b7842679f161.jpg",
+    "type": "image/jpeg",
+    "size": 197104,
+    "active": "true",
+    "__v": 0,
+    "fileId": 451
+  },
+  {
+    "name": "Apparel industry insidew cover 1",
+    "blobName": "fb9ecf2f-2f86-4ef4-a3bb-7dff0f59412c.jpeg",
+    "type": "image/jpeg",
+    "size": 231612,
+    "active": "true",
+    "__v": 0,
+    "fileId": 452
+  },
+  {
+    "name": "Apparel industry cover2",
+    "blobName": "299b7ba2-a78f-4e95-9348-4a3a4535c30b.jpeg",
+    "type": "image/jpeg",
+    "size": 148555,
+    "active": "true",
+    "__v": 0,
+    "fileId": 453
+  },
+  {
+    "name": "Apparel industry dashboard",
+    "blobName": "d589e0aa-ee80-4104-9fce-e802a0abdd19.jpg",
+    "type": "image/jpeg",
+    "size": 110143,
+    "active": "true",
+    "__v": 0,
+    "fileId": 454
+  },
+  {
+    "name": "Apparel industry finishproduct",
+    "blobName": "69488e9c-3733-4ce7-9622-bd787e11ee79.jpg",
+    "type": "image/jpeg",
+    "size": 42567,
+    "active": "true",
+    "__v": 0,
+    "fileId": 455
+  },
+  {
+    "name": "Apparel industry formula",
+    "blobName": "1a0b4324-f71f-4182-91fe-9e6b487d17d3.jpg",
+    "type": "image/jpeg",
+    "size": 42483,
+    "active": "true",
+    "__v": 0,
+    "fileId": 456
+  },
+  {
+    "name": "Apparel industry inventory balance",
+    "blobName": "8004cc7e-6cd9-4d1b-b157-d8962f8cde3f.jpg",
+    "type": "image/jpeg",
+    "size": 36596,
+    "active": "true",
+    "__v": 0,
+    "fileId": 457
+  },
+  {
+    "name": "Apparel industry inventory overview",
+    "blobName": "15327fe5-3606-48f0-8cc0-35c58224cad8.jpg",
+    "type": "image/jpeg",
+    "size": 47364,
+    "active": "true",
+    "__v": 0,
+    "fileId": 458
+  },
+  {
+    "name": "Apparel industry manufacture",
+    "blobName": "5caf1dd8-c0f2-4f2c-be2b-e39effd202a1.jpg",
+    "type": "image/jpeg",
+    "size": 49456,
+    "active": "true",
+    "__v": 0,
+    "fileId": 459
+  },
+  {
+    "name": "Apparel industry procurement",
+    "blobName": "5c757ba5-b7ed-4369-b87c-e0ebbf90a9ea.jpg",
+    "type": "image/jpeg",
+    "size": 70347,
+    "active": "true",
+    "__v": 0,
+    "fileId": 460
+  },
+  {
+    "name": "Apparel industry profit and loss",
+    "blobName": "1de1e403-cf23-4fa4-9783-18ad03bcc774.jpg",
+    "type": "image/jpeg",
+    "size": 78826,
+    "active": "true",
+    "__v": 0,
+    "fileId": 461
+  },
+  {
+    "name": "Apparel industry quick bill",
+    "blobName": "ea7f735f-23c5-4f75-a9d1-f4a53e950a07.jpg",
+    "type": "image/jpeg",
+    "size": 116500,
+    "active": "true",
+    "__v": 0,
+    "fileId": 462
+  },
+  {
+    "name": "Apparel industry raw",
+    "blobName": "ca8dfd4c-bbf2-49bb-93e2-dc099aa92aa2.jpg",
+    "type": "image/jpeg",
+    "size": 48789,
+    "active": "true",
+    "__v": 0,
+    "fileId": 463
+  },
+  {
+    "name": "Apparel industry sale",
+    "blobName": "b602e33b-29dd-4eec-afae-624f608d4aef.jpg",
+    "type": "image/jpeg",
+    "size": 63389,
+    "active": "true",
+    "__v": 0,
+    "fileId": 464
+  },
+  {
+    "name": "Apparel industry step1",
+    "blobName": "d295c74f-1387-4328-add8-5fa3503d1824.jpg",
+    "type": "image/jpeg",
+    "size": 29823,
+    "active": "true",
+    "__v": 0,
+    "fileId": 465
+  },
+  {
+    "name": "Apparel industry step2",
+    "blobName": "329b930d-e164-4463-82de-658a09ba4110.jpg",
+    "type": "image/jpeg",
+    "size": 23807,
+    "active": "true",
+    "__v": 0,
+    "fileId": 466
+  },
+  {
+    "name": "Apparel industry step3",
+    "blobName": "16941c88-7c1e-441c-849d-41569dd5a4e6.jpg",
+    "type": "image/jpeg",
+    "size": 25434,
+    "active": "true",
+    "__v": 0,
+    "fileId": 467
+  },
+  {
+    "name": "Apparel industry step4",
+    "blobName": "678673af-5687-4f81-a2cd-10c3f6eace96.jpg",
+    "type": "image/jpeg",
+    "size": 26314,
+    "active": "true",
+    "__v": 0,
+    "fileId": 468
+  },
+  {
+    "name": "Apparel industry step5",
+    "blobName": "59c08be6-0e3a-4f2f-a60c-7068ecef9935.jpg",
+    "type": "image/jpeg",
+    "size": 28942,
+    "active": "true",
+    "__v": 0,
+    "fileId": 469
+  },
+  {
+    "name": "Apparel industry step6",
+    "blobName": "ea7ed373-eb47-4486-b006-721211c64a1a.jpg",
+    "type": "image/jpeg",
+    "size": 36459,
+    "active": "true",
+    "__v": 0,
+    "fileId": 470
+  },
+  {
+    "name": "Career IOS ",
+    "blobName": "48b49b6b-0df6-4aed-b985-32b30ebb5f66.jpg",
+    "type": "image/jpeg",
+    "size": 23082,
+    "active": "true",
+    "__v": 0,
+    "fileId": 471
+  }
+]
