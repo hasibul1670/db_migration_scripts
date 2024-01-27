@@ -1,7 +1,8 @@
-# db_migration_scripts
+### db_migration_scripts
 
-<!-- Run Command -->
-`code 
+## Run Command 
+
+```javascript
 node index.js
-`
+
  
